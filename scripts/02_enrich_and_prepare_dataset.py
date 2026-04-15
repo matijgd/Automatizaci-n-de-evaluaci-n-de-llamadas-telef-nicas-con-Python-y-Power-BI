@@ -1,3 +1,4 @@
+from pathlib import Path
 import os
 
 import numpy as np
@@ -8,11 +9,13 @@ import pandas as pd
 # RUTAS DE ENTRADA Y SALIDA
 # =========================================================
 
-ARCHIVO_ENTRADA_PUNTUADO = "data/processed/scored_conversations.xlsx"
-ARCHIVO_TIPIFICACIONES = "tipifications.csv"
-ARCHIVO_DOTACION_AGENTES = "agent_roster.csv"
-ARCHIVO_TRAFICO_DIARIO = "daily_traffic.csv"
-ARCHIVO_SALIDA_FINAL = "data/processed/final_conversation_dataset.xlsx"
+BASE_DIR = Path(__file__).resolve().parents[1]
+
+ARCHIVO_ENTRADA_PUNTUADO = str(BASE_DIR / "datasets" / "processed" / "scored_conversations.xlsx")
+ARCHIVO_TIPIFICACIONES = str(BASE_DIR / "datasets" / "raw" / "tipifications.csv")
+ARCHIVO_DOTACION_AGENTES = str(BASE_DIR / "datasets" / "raw" / "agent_roster.csv")
+ARCHIVO_TRAFICO_DIARIO = str(BASE_DIR / "datasets" / "raw" / "daily_traffic.csv")
+ARCHIVO_SALIDA_FINAL = str(BASE_DIR / "datasets" / "processed" / "final_conversation_dataset.xlsx")
 
 
 # =========================================================
