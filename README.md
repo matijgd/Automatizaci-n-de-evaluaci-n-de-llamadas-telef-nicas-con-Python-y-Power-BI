@@ -10,6 +10,8 @@ Este proyecto contempla:
 - Construcción de un dataset analítico final listo para consumo.
 - Desarrollo de un **dashboard interactivo en Power BI** orientado a calidad, desempeño operativo y seguimiento por agente/supervisor.
 
+> **Nota:** Los datos incluidos en este repositorio son sintéticos y fueron generados con fines de demostración y portafolio.
+
 ---
 
 # 📌 Descripción General del Proyecto
@@ -27,6 +29,105 @@ A nivel funcional, el proyecto permite:
 - Incorporar contexto operacional a través de cruces con otras tablas.
 - Construir una base analítica reutilizable para reporting.
 - Visualizar resultados mediante un dashboard orientado a gestión y desempeño.
+
+---
+
+# 📋 Requerimientos del Reporte
+
+El dashboard fue diseñado para responder los siguientes requerimientos funcionales y analíticos del caso de uso:
+
+## 1. Evaluación automatizada de calidad de llamadas
+
+- Procesar transcripciones de llamadas desde una fuente estructurada.
+- Detectar automáticamente atributos clave de calidad a partir del texto de la interacción.
+- Evaluar señales tanto del diálogo del agente como del cliente.
+- Identificar posibles anomalías o repeticiones excesivas en la transcripción.
+- Clasificar el motivo principal del contacto mediante reglas de negocio.
+
+## 2. Vista general operacional y de calidad
+
+- Mostrar indicadores clave del período seleccionado:
+  - Llamadas Totales
+  - Duración Promedio
+  - Cumplimiento QA
+  - Cumplimiento Error Crítico
+  - Nota Final
+  - Cliente Satisfecho
+- Permitir seguimiento de tendencia diaria de llamadas y duración promedio.
+- Analizar el desempeño semanal de la operación mediante nota final y duración.
+- Identificar diferencias de desempeño por tipificación.
+- Comparar resultados por tramo de antigüedad de los agentes.
+- Visualizar ranking de agentes según nota final.
+
+## 3. Vista de desempeño por ejecutivo
+
+- Analizar el desempeño individual de cada ejecutivo.
+- Mostrar contexto operacional del agente seleccionado:
+  - supervisor
+  - llamadas totales
+  - duración promedio
+  - nota final
+  - cumplimiento de error crítico
+- Comparar el desempeño del ejecutivo contra el promedio del equipo.
+- Analizar el posicionamiento del ejecutivo dentro de una matriz de calidad vs volumen.
+- Evaluar diferencias de desempeño entre supervisores.
+- Identificar perfiles de alto volumen, alta calidad o bajo desempeño.
+
+## 4. Interactividad y experiencia de usuario
+
+- Incorporar segmentadores para filtrar el análisis por:
+  - mes
+  - semana
+  - país
+  - supervisor
+  - agente
+- Permitir análisis dinámico según el contexto seleccionado.
+- Incluir tooltips personalizados para enriquecer la lectura de los visuales sin sobrecargar la página principal.
+- Mantener una navegación simple e intuitiva orientada a lectura ejecutiva y análisis detallado.
+
+## 5. Modelo analítico y reglas de negocio
+
+- Consolidar en un único dataset final la información de transcripciones, tipificaciones, dotación y tráfico.
+- Calcular métricas derivadas para análisis de calidad y operación.
+- Priorizar la ausencia de error crítico dentro de la lógica de evaluación final.
+- Construir un modelo reutilizable para reporting y monitoreo de desempeño.
+
+---
+
+# ⚙️ Funcionalidades implementadas en Power BI
+
+El dashboard incorpora funcionalidades orientadas a mejorar la experiencia de análisis y la interpretación del desempeño:
+
+- Modelo conectado al dataset final generado en Python.
+- KPIs ejecutivos para monitoreo general de la operación.
+- Segmentadores globales para navegación y filtrado del análisis.
+- Visualizaciones comparativas por día, semana, tipificación, supervisor y antigüedad.
+- Matriz de desempeño calidad vs volumen para análisis de posicionamiento de ejecutivos.
+- Comparación del ejecutivo seleccionado frente al equipo.
+- Tooltips personalizados con métricas adicionales por agente.
+- Uso de medidas DAX para cálculo de:
+  - Cumplimiento QA
+  - Cumplimiento Error Crítico
+  - Cliente Satisfecho
+  - Nota Final
+
+---
+
+# 🧮 Métricas principales del reporte
+
+Entre las métricas principales desarrolladas en el dashboard se encuentran:
+
+- Llamadas Totales
+- Duración Promedio (Min.)
+- Cumplimiento QA
+- Cumplimiento Error Crítico
+- Cliente Satisfecho
+- Nota Final
+- Llamadas por tipificación
+- Nota Final por agente
+- Desempeño por supervisor
+- Evolución de Nota Final por período
+- Relación entre calidad y volumen por ejecutivo
 
 ---
 
@@ -414,10 +515,10 @@ pip install -r requirements.txt
 
 Ubicar los archivos base en las rutas definidas del proyecto:
 
-- `sample_conversations.csv` o configurar acceso a BigQuery
-- `tipifications.csv`
-- `agent_roster.csv`
-- `daily_traffic.csv`
+- `datasets/raw/sample_conversations.csv`
+- `datasets/raw/tipifications.csv`
+- `datasets/raw/agent_roster.csv`
+- `datasets/raw/daily_traffic.csv`
 
 ## 6. Ejecutar scoring de transcripciones
 
@@ -470,7 +571,7 @@ Este proyecto permite:
 
 ![Detalle Ejecutivo](documentos/imagenes/ejecutivos.png)
 
-## ToolTips Interactivos para brindar mayor informacion
+## Tooltips interactivos para brindar mayor información
 
 ![Tooltips](documentos/imagenes/enfoque_matriz_tooltip.png)
 
@@ -479,4 +580,4 @@ Este proyecto permite:
 # 👨‍💻 Autor
 
 **Matías González**  
-Analista de Datost | SQL Server | Power BI | Python | Excel
+Analista de Datos | SQL Server | Power BI | Python | Excel
