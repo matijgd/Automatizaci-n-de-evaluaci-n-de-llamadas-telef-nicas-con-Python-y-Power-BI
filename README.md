@@ -450,11 +450,11 @@ Este proyecto permite:
 
 # 🚀 Posibles Mejoras Futuras
 
-- ampliar diccionarios de detección de frases,
-- externalizar reglas de scoring a archivos de configuración,
+- ampliar los diccionarios de detección de frases y reglas de evaluación,
+- externalizar la configuración del scoring para hacer el proceso más flexible,
 - incorporar validaciones automáticas de calidad de datos,
-- exportar salidas en formatos adicionales como CSV o Parquet,
-- evolucionar desde reglas hacia enfoques más avanzados de NLP,
+- habilitar exportación a formatos más eficientes para datasets de mayor volumen,
+- complementar la lógica basada en frases clave con técnicas más avanzadas de análisis de texto,
 - ampliar el dashboard con nuevas vistas de tendencia y segmentación.
 
 ---
