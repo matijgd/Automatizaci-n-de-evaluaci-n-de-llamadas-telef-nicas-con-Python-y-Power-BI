@@ -1,3 +1,4 @@
+from pathlib import Path
 import os
 import re
 import unicodedata
@@ -12,13 +13,18 @@ from google.cloud import bigquery
 # CONFIGURACION GENERAL
 # =========================================================
 
+BASE_DIR = Path(__file__).resolve().parents[1]
+
 # Opciones disponibles:
 # - "csv": usa un archivo local de ejemplo o de trabajo
 # - "bigquery": consulta una tabla en GCP
 MODO_FUENTE = "csv"
 
 # -------- CSV local --------
-CSV_ENTRADA_LOCAL = os.getenv("LOCAL_INPUT_CSV", "sample_conversations.csv")
+CSV_ENTRADA_LOCAL = os.getenv(
+    "LOCAL_INPUT_CSV",
+    str(BASE_DIR / "datasets" / "raw" / "sample_conversations.csv")
+)
 
 # -------- BigQuery --------
 JSON_CUENTA_SERVICIO = os.getenv("SERVICE_ACCOUNT_JSON", "path/to/service_account.json")
@@ -29,9 +35,10 @@ FECHA_DESDE = os.getenv("DATE_FROM", "2025-01-01")
 FECHA_HASTA = os.getenv("DATE_TO", "2025-01-31")
 
 # -------- Salida --------
-ARCHIVO_SALIDA = os.getenv("OUTPUT_FILE", "data/processed/scored_conversations.xlsx")
-
-
+ARCHIVO_SALIDA = os.getenv(
+    "OUTPUT_FILE",
+    str(BASE_DIR / "datasets" / "processed" / "scored_conversations.xlsx")
+)
 # =========================================================
 # REGLAS DE DETECCION
 # =========================================================
