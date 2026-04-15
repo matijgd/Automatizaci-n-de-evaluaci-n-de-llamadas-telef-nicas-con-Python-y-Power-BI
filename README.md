@@ -368,8 +368,9 @@ call-center-qa-automatizacion-python-power-bi/
 │
 ├── documentos/
 │   ├── imagenes/
-│   │   ├── dashboard_overview.png
-│   │   └── dashboard_agent_detail.png
+│   │   ├── general.png
+│   │   ├── ejecutivos.png
+│   │   └── enfoque_matriz_tooltip.png
 │   └── diccionario_datos.md
 │
 ├── requirements.txt
