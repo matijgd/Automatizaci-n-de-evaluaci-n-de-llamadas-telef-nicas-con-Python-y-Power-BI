@@ -385,7 +385,7 @@ call-center-qa-automatizacion-python-power-bi/
 ## 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/matijgd/call-center-qa-automatizacion-python-power-bi.git>
 cd <NOMBRE_DEL_REPOSITORIO>
 ```
 
