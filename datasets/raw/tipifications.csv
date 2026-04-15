@@ -1,0 +1,3001 @@
+﻿conn_id,tipification_group,tipification_detail,repeat_contact_flag
+c00001,Billing,Incorrect Charge,0
+c00002,Billing,Incorrect Charge,0
+c00003,Billing,Incorrect Charge,1
+c00004,Commercial,Portability Inquiry,0
+c00005,Technical Support,Connectivity Issue,1
+c00006,Technical Support,Connectivity Issue,1
+c00007,Commercial,Plan Change Request,0
+c00008,Technical Support,Connectivity Issue,0
+c00009,Digital Channels,Payment App Issue,0
+c00010,Technical Support,Connectivity Issue,1
+c00011,Retention,Cancellation Request,0
+c00012,Commercial,Portability Inquiry,0
+c00013,Commercial,Plan Change Request,0
+c00014,Technical Support,Connectivity Issue,0
+c00015,Billing,Incorrect Charge,0
+c00016,Claims,Claim Follow-up,0
+c00017,Technical Support,Connectivity Issue,1
+c00018,Technical Support,Connectivity Issue,0
+c00019,Commercial,Portability Inquiry,0
+c00020,Commercial,Plan Change Request,1
+c00021,Claims,Claim Follow-up,1
+c00022,Technical Support,Connectivity Issue,0
+c00023,Technical Support,Connectivity Issue,0
+c00024,Billing,Incorrect Charge,0
+c00025,Commercial,Portability Inquiry,0
+c00026,Commercial,Plan Change Request,0
+c00027,General Support,Other,0
+c00028,Technical Support,Connectivity Issue,1
+c00029,General Support,Other,0
+c00030,Retention,Cancellation Request,0
+c00031,Claims,Claim Follow-up,1
+c00032,Billing,Incorrect Charge,0
+c00033,General Support,Other,0
+c00034,Claims,Claim Follow-up,0
+c00035,Claims,Claim Follow-up,1
+c00036,Billing,Incorrect Charge,0
+c00037,General Support,Other,0
+c00038,Retention,Cancellation Request,0
+c00039,Commercial,Plan Change Request,0
+c00040,Technical Support,Connectivity Issue,1
+c00041,Digital Channels,Payment App Issue,0
+c00042,Commercial,Plan Change Request,1
+c00043,Claims,Claim Follow-up,0
+c00044,Commercial,Plan Change Request,0
+c00045,Claims,Claim Follow-up,0
+c00046,Technical Support,Connectivity Issue,0
+c00047,General Support,Other,0
+c00048,Commercial,Plan Change Request,0
+c00049,Technical Support,Connectivity Issue,0
+c00050,Technical Support,Connectivity Issue,0
+c00051,Commercial,Plan Change Request,0
+c00052,Billing,Incorrect Charge,0
+c00053,Commercial,Plan Change Request,0
+c00054,Commercial,Plan Change Request,0
+c00055,Technical Support,Connectivity Issue,1
+c00056,Commercial,Plan Change Request,0
+c00057,Retention,Cancellation Request,1
+c00058,Claims,Claim Follow-up,1
+c00059,Billing,Incorrect Charge,0
+c00060,Commercial,Plan Change Request,0
+c00061,Retention,Cancellation Request,0
+c00062,Billing,Incorrect Charge,0
+c00063,General Support,Other,0
+c00064,Commercial,Portability Inquiry,1
+c00065,Technical Support,Connectivity Issue,0
+c00066,Technical Support,Connectivity Issue,0
+c00067,Billing,Incorrect Charge,1
+c00068,Billing,Incorrect Charge,0
+c00069,Technical Support,Connectivity Issue,0
+c00070,Commercial,Plan Change Request,0
+c00071,Digital Channels,Payment App Issue,0
+c00072,Technical Support,Connectivity Issue,0
+c00073,Digital Channels,Payment App Issue,1
+c00074,Technical Support,Connectivity Issue,1
+c00075,Technical Support,Connectivity Issue,1
+c00076,Billing,Incorrect Charge,0
+c00077,Technical Support,Connectivity Issue,1
+c00078,Digital Channels,Payment App Issue,1
+c00079,Commercial,Portability Inquiry,0
+c00080,Digital Channels,Payment App Issue,0
+c00081,Digital Channels,Payment App Issue,1
+c00082,Claims,Claim Follow-up,1
+c00083,Technical Support,Connectivity Issue,0
+c00084,Billing,Incorrect Charge,0
+c00085,Billing,Incorrect Charge,0
+c00086,Billing,Incorrect Charge,1
+c00087,Commercial,Plan Change Request,0
+c00088,Billing,Incorrect Charge,1
+c00089,Billing,Incorrect Charge,0
+c00090,Billing,Incorrect Charge,0
+c00091,Technical Support,Connectivity Issue,0
+c00092,Technical Support,Connectivity Issue,1
+c00093,Digital Channels,Payment App Issue,0
+c00094,Commercial,Portability Inquiry,0
+c00095,Billing,Incorrect Charge,0
+c00096,Claims,Claim Follow-up,0
+c00097,Commercial,Portability Inquiry,0
+c00098,Digital Channels,Payment App Issue,0
+c00099,Technical Support,Connectivity Issue,1
+c00100,Retention,Cancellation Request,1
+c00101,Billing,Incorrect Charge,0
+c00102,General Support,Other,0
+c00103,Claims,Claim Follow-up,1
+c00104,Billing,Incorrect Charge,0
+c00105,Retention,Cancellation Request,0
+c00106,Billing,Incorrect Charge,1
+c00107,Claims,Claim Follow-up,0
+c00108,Retention,Cancellation Request,0
+c00109,Billing,Incorrect Charge,0
+c00110,Digital Channels,Payment App Issue,0
+c00111,Claims,Claim Follow-up,0
+c00112,Billing,Incorrect Charge,0
+c00113,Billing,Incorrect Charge,0
+c00114,Commercial,Portability Inquiry,0
+c00115,Digital Channels,Payment App Issue,0
+c00116,Digital Channels,Payment App Issue,0
+c00117,Commercial,Portability Inquiry,0
+c00118,Technical Support,Connectivity Issue,1
+c00119,Technical Support,Connectivity Issue,1
+c00120,Retention,Cancellation Request,1
+c00121,Commercial,Plan Change Request,0
+c00122,Commercial,Portability Inquiry,0
+c00123,Retention,Cancellation Request,1
+c00124,Commercial,Plan Change Request,0
+c00125,Digital Channels,Payment App Issue,1
+c00126,Digital Channels,Payment App Issue,0
+c00127,Technical Support,Connectivity Issue,0
+c00128,Commercial,Portability Inquiry,0
+c00129,Commercial,Plan Change Request,0
+c00130,Claims,Claim Follow-up,0
+c00131,Billing,Incorrect Charge,0
+c00132,General Support,Other,0
+c00133,Technical Support,Connectivity Issue,0
+c00134,Commercial,Plan Change Request,0
+c00135,Digital Channels,Payment App Issue,0
+c00136,Commercial,Plan Change Request,1
+c00137,Technical Support,Connectivity Issue,0
+c00138,Commercial,Plan Change Request,0
+c00139,Technical Support,Connectivity Issue,0
+c00140,Commercial,Portability Inquiry,0
+c00141,Digital Channels,Payment App Issue,0
+c00142,General Support,Other,0
+c00143,Digital Channels,Payment App Issue,0
+c00144,General Support,Other,0
+c00145,Commercial,Plan Change Request,0
+c00146,Digital Channels,Payment App Issue,0
+c00147,Technical Support,Connectivity Issue,0
+c00148,Retention,Cancellation Request,0
+c00149,Retention,Cancellation Request,0
+c00150,Digital Channels,Payment App Issue,0
+c00151,Commercial,Plan Change Request,0
+c00152,Retention,Cancellation Request,0
+c00153,Digital Channels,Payment App Issue,0
+c00154,Technical Support,Connectivity Issue,0
+c00155,Billing,Incorrect Charge,0
+c00156,General Support,Other,0
+c00157,Billing,Incorrect Charge,0
+c00158,General Support,Other,0
+c00159,Technical Support,Connectivity Issue,0
+c00160,Billing,Incorrect Charge,0
+c00161,Digital Channels,Payment App Issue,0
+c00162,Claims,Claim Follow-up,0
+c00163,Billing,Incorrect Charge,0
+c00164,Commercial,Portability Inquiry,0
+c00165,Billing,Incorrect Charge,0
+c00166,Commercial,Plan Change Request,1
+c00167,Billing,Incorrect Charge,0
+c00168,Claims,Claim Follow-up,1
+c00169,Commercial,Portability Inquiry,0
+c00170,Commercial,Plan Change Request,0
+c00171,Commercial,Plan Change Request,0
+c00172,Technical Support,Connectivity Issue,0
+c00173,Billing,Incorrect Charge,0
+c00174,Commercial,Plan Change Request,0
+c00175,Billing,Incorrect Charge,0
+c00176,Claims,Claim Follow-up,0
+c00177,Commercial,Plan Change Request,1
+c00178,Claims,Claim Follow-up,0
+c00179,Commercial,Plan Change Request,0
+c00180,General Support,Other,0
+c00181,Commercial,Plan Change Request,0
+c00182,Digital Channels,Payment App Issue,0
+c00183,Digital Channels,Payment App Issue,0
+c00184,Technical Support,Connectivity Issue,0
+c00185,Billing,Incorrect Charge,1
+c00186,Retention,Cancellation Request,0
+c00187,Billing,Incorrect Charge,1
+c00188,Billing,Incorrect Charge,0
+c00189,General Support,Other,0
+c00190,Billing,Incorrect Charge,1
+c00191,Claims,Claim Follow-up,1
+c00192,General Support,Other,0
+c00193,Billing,Incorrect Charge,1
+c00194,Commercial,Plan Change Request,0
+c00195,Technical Support,Connectivity Issue,0
+c00196,Digital Channels,Payment App Issue,1
+c00197,Digital Channels,Payment App Issue,1
+c00198,Claims,Claim Follow-up,0
+c00199,Commercial,Portability Inquiry,0
+c00200,Billing,Incorrect Charge,0
+c00201,Technical Support,Connectivity Issue,0
+c00202,Digital Channels,Payment App Issue,0
+c00203,Digital Channels,Payment App Issue,0
+c00204,Technical Support,Connectivity Issue,1
+c00205,General Support,Other,0
+c00206,Billing,Incorrect Charge,1
+c00207,Claims,Claim Follow-up,0
+c00208,Billing,Incorrect Charge,0
+c00209,Commercial,Plan Change Request,0
+c00210,Commercial,Plan Change Request,1
+c00211,Claims,Claim Follow-up,1
+c00212,General Support,Other,0
+c00213,Claims,Claim Follow-up,0
+c00214,Technical Support,Connectivity Issue,0
+c00215,General Support,Other,0
+c00216,Technical Support,Connectivity Issue,0
+c00217,Billing,Incorrect Charge,0
+c00218,Commercial,Plan Change Request,0
+c00219,Claims,Claim Follow-up,0
+c00220,Billing,Incorrect Charge,1
+c00221,Billing,Incorrect Charge,0
+c00222,Technical Support,Connectivity Issue,0
+c00223,Commercial,Portability Inquiry,1
+c00224,Retention,Cancellation Request,0
+c00225,Technical Support,Connectivity Issue,0
+c00226,Technical Support,Connectivity Issue,1
+c00227,Technical Support,Connectivity Issue,1
+c00228,Technical Support,Connectivity Issue,0
+c00229,Billing,Incorrect Charge,1
+c00230,General Support,Other,0
+c00231,Commercial,Plan Change Request,0
+c00232,Commercial,Plan Change Request,0
+c00233,Commercial,Plan Change Request,0
+c00234,Technical Support,Connectivity Issue,1
+c00235,Billing,Incorrect Charge,0
+c00236,Billing,Incorrect Charge,1
+c00237,Commercial,Plan Change Request,1
+c00238,Technical Support,Connectivity Issue,1
+c00239,Technical Support,Connectivity Issue,0
+c00240,General Support,Other,0
+c00241,Billing,Incorrect Charge,0
+c00242,Billing,Incorrect Charge,0
+c00243,Digital Channels,Payment App Issue,1
+c00244,Billing,Incorrect Charge,1
+c00245,Technical Support,Connectivity Issue,0
+c00246,Billing,Incorrect Charge,0
+c00247,Commercial,Plan Change Request,0
+c00248,Billing,Incorrect Charge,0
+c00249,Claims,Claim Follow-up,0
+c00250,Retention,Cancellation Request,0
+c00251,Billing,Incorrect Charge,0
+c00252,Billing,Incorrect Charge,0
+c00253,Commercial,Plan Change Request,1
+c00254,Technical Support,Connectivity Issue,0
+c00255,Billing,Incorrect Charge,0
+c00256,Billing,Incorrect Charge,1
+c00257,Billing,Incorrect Charge,0
+c00258,Billing,Incorrect Charge,0
+c00259,Technical Support,Connectivity Issue,0
+c00260,General Support,Other,0
+c00261,Digital Channels,Payment App Issue,0
+c00262,Digital Channels,Payment App Issue,1
+c00263,Technical Support,Connectivity Issue,0
+c00264,Billing,Incorrect Charge,1
+c00265,Commercial,Plan Change Request,0
+c00266,Retention,Cancellation Request,0
+c00267,Retention,Cancellation Request,1
+c00268,Technical Support,Connectivity Issue,0
+c00269,Commercial,Plan Change Request,0
+c00270,Technical Support,Connectivity Issue,0
+c00271,Retention,Cancellation Request,0
+c00272,Billing,Incorrect Charge,1
+c00273,Commercial,Portability Inquiry,1
+c00274,Billing,Incorrect Charge,0
+c00275,Billing,Incorrect Charge,1
+c00276,Billing,Incorrect Charge,0
+c00277,Commercial,Portability Inquiry,0
+c00278,Billing,Incorrect Charge,0
+c00279,Commercial,Plan Change Request,0
+c00280,Technical Support,Connectivity Issue,0
+c00281,Digital Channels,Payment App Issue,0
+c00282,Billing,Incorrect Charge,1
+c00283,General Support,Other,0
+c00284,Technical Support,Connectivity Issue,0
+c00285,Technical Support,Connectivity Issue,1
+c00286,Digital Channels,Payment App Issue,0
+c00287,Technical Support,Connectivity Issue,0
+c00288,Technical Support,Connectivity Issue,1
+c00289,Retention,Cancellation Request,0
+c00290,Commercial,Portability Inquiry,0
+c00291,Retention,Cancellation Request,0
+c00292,General Support,Other,0
+c00293,Technical Support,Connectivity Issue,0
+c00294,Technical Support,Connectivity Issue,0
+c00295,Billing,Incorrect Charge,0
+c00296,Billing,Incorrect Charge,1
+c00297,Billing,Incorrect Charge,1
+c00298,Billing,Incorrect Charge,1
+c00299,Retention,Cancellation Request,0
+c00300,Claims,Claim Follow-up,1
+c00301,Billing,Incorrect Charge,0
+c00302,Technical Support,Connectivity Issue,1
+c00303,Claims,Claim Follow-up,0
+c00304,Commercial,Portability Inquiry,0
+c00305,General Support,Other,0
+c00306,Technical Support,Connectivity Issue,0
+c00307,Commercial,Plan Change Request,0
+c00308,Retention,Cancellation Request,0
+c00309,Retention,Cancellation Request,0
+c00310,Commercial,Plan Change Request,1
+c00311,Claims,Claim Follow-up,0
+c00312,Technical Support,Connectivity Issue,0
+c00313,Technical Support,Connectivity Issue,0
+c00314,Technical Support,Connectivity Issue,0
+c00315,Billing,Incorrect Charge,0
+c00316,Retention,Cancellation Request,1
+c00317,Technical Support,Connectivity Issue,0
+c00318,Commercial,Portability Inquiry,0
+c00319,Technical Support,Connectivity Issue,0
+c00320,Billing,Incorrect Charge,1
+c00321,Technical Support,Connectivity Issue,0
+c00322,Billing,Incorrect Charge,0
+c00323,Digital Channels,Payment App Issue,0
+c00324,Billing,Incorrect Charge,0
+c00325,Billing,Incorrect Charge,0
+c00326,General Support,Other,0
+c00327,Billing,Incorrect Charge,0
+c00328,Claims,Claim Follow-up,0
+c00329,Retention,Cancellation Request,0
+c00330,Retention,Cancellation Request,0
+c00331,Technical Support,Connectivity Issue,1
+c00332,Retention,Cancellation Request,0
+c00333,Commercial,Plan Change Request,1
+c00334,General Support,Other,1
+c00335,Commercial,Plan Change Request,1
+c00336,Technical Support,Connectivity Issue,0
+c00337,Retention,Cancellation Request,1
+c00338,Digital Channels,Payment App Issue,0
+c00339,Retention,Cancellation Request,0
+c00340,Claims,Claim Follow-up,1
+c00341,Technical Support,Connectivity Issue,0
+c00342,Commercial,Plan Change Request,0
+c00343,Digital Channels,Payment App Issue,0
+c00344,General Support,Other,0
+c00345,Billing,Incorrect Charge,0
+c00346,Technical Support,Connectivity Issue,1
+c00347,Billing,Incorrect Charge,0
+c00348,Claims,Claim Follow-up,0
+c00349,General Support,Other,1
+c00350,Billing,Incorrect Charge,1
+c00351,Digital Channels,Payment App Issue,0
+c00352,Billing,Incorrect Charge,0
+c00353,General Support,Other,0
+c00354,Digital Channels,Payment App Issue,0
+c00355,Technical Support,Connectivity Issue,0
+c00356,Technical Support,Connectivity Issue,1
+c00357,Retention,Cancellation Request,1
+c00358,Commercial,Portability Inquiry,0
+c00359,Billing,Incorrect Charge,1
+c00360,Billing,Incorrect Charge,0
+c00361,Retention,Cancellation Request,0
+c00362,Digital Channels,Payment App Issue,0
+c00363,Claims,Claim Follow-up,1
+c00364,Commercial,Portability Inquiry,0
+c00365,Technical Support,Connectivity Issue,0
+c00366,Digital Channels,Payment App Issue,1
+c00367,Claims,Claim Follow-up,1
+c00368,Digital Channels,Payment App Issue,1
+c00369,Commercial,Plan Change Request,0
+c00370,General Support,Other,1
+c00371,Commercial,Plan Change Request,0
+c00372,Commercial,Plan Change Request,1
+c00373,Technical Support,Connectivity Issue,0
+c00374,Commercial,Plan Change Request,0
+c00375,Commercial,Plan Change Request,0
+c00376,Digital Channels,Payment App Issue,0
+c00377,Technical Support,Connectivity Issue,0
+c00378,Technical Support,Connectivity Issue,1
+c00379,Commercial,Plan Change Request,0
+c00380,Commercial,Plan Change Request,1
+c00381,Technical Support,Connectivity Issue,0
+c00382,Retention,Cancellation Request,0
+c00383,Billing,Incorrect Charge,0
+c00384,Retention,Cancellation Request,0
+c00385,Retention,Cancellation Request,1
+c00386,General Support,Other,0
+c00387,Claims,Claim Follow-up,0
+c00388,Billing,Incorrect Charge,0
+c00389,Retention,Cancellation Request,0
+c00390,Billing,Incorrect Charge,0
+c00391,General Support,Other,0
+c00392,Billing,Incorrect Charge,1
+c00393,Claims,Claim Follow-up,0
+c00394,Technical Support,Connectivity Issue,1
+c00395,General Support,Other,0
+c00396,General Support,Other,0
+c00397,Technical Support,Connectivity Issue,0
+c00398,Commercial,Plan Change Request,0
+c00399,General Support,Other,0
+c00400,Billing,Incorrect Charge,0
+c00401,Commercial,Portability Inquiry,0
+c00402,Commercial,Portability Inquiry,0
+c00403,Technical Support,Connectivity Issue,1
+c00404,Retention,Cancellation Request,0
+c00405,Commercial,Portability Inquiry,0
+c00406,Technical Support,Connectivity Issue,0
+c00407,Claims,Claim Follow-up,1
+c00408,Technical Support,Connectivity Issue,0
+c00409,Commercial,Portability Inquiry,0
+c00410,Commercial,Plan Change Request,0
+c00411,Technical Support,Connectivity Issue,0
+c00412,Commercial,Plan Change Request,0
+c00413,Retention,Cancellation Request,0
+c00414,Digital Channels,Payment App Issue,0
+c00415,Technical Support,Connectivity Issue,1
+c00416,Commercial,Plan Change Request,0
+c00417,Billing,Incorrect Charge,0
+c00418,Commercial,Portability Inquiry,0
+c00419,Digital Channels,Payment App Issue,0
+c00420,Billing,Incorrect Charge,0
+c00421,Technical Support,Connectivity Issue,0
+c00422,Technical Support,Connectivity Issue,1
+c00423,Technical Support,Connectivity Issue,1
+c00424,Commercial,Plan Change Request,0
+c00425,Technical Support,Connectivity Issue,0
+c00426,Claims,Claim Follow-up,1
+c00427,Commercial,Plan Change Request,0
+c00428,Commercial,Plan Change Request,0
+c00429,Technical Support,Connectivity Issue,1
+c00430,Technical Support,Connectivity Issue,0
+c00431,Billing,Incorrect Charge,1
+c00432,Technical Support,Connectivity Issue,0
+c00433,Digital Channels,Payment App Issue,0
+c00434,Billing,Incorrect Charge,0
+c00435,Commercial,Portability Inquiry,0
+c00436,Commercial,Plan Change Request,0
+c00437,Billing,Incorrect Charge,0
+c00438,Commercial,Plan Change Request,0
+c00439,Claims,Claim Follow-up,0
+c00440,Technical Support,Connectivity Issue,0
+c00441,Technical Support,Connectivity Issue,0
+c00442,Digital Channels,Payment App Issue,0
+c00443,Digital Channels,Payment App Issue,0
+c00444,Technical Support,Connectivity Issue,0
+c00445,Digital Channels,Payment App Issue,0
+c00446,Commercial,Plan Change Request,0
+c00447,Technical Support,Connectivity Issue,0
+c00448,Retention,Cancellation Request,0
+c00449,Billing,Incorrect Charge,0
+c00450,Claims,Claim Follow-up,0
+c00451,Retention,Cancellation Request,0
+c00452,Commercial,Plan Change Request,0
+c00453,Billing,Incorrect Charge,0
+c00454,Billing,Incorrect Charge,0
+c00455,Commercial,Plan Change Request,0
+c00456,Digital Channels,Payment App Issue,0
+c00457,Claims,Claim Follow-up,0
+c00458,Billing,Incorrect Charge,1
+c00459,Billing,Incorrect Charge,1
+c00460,Billing,Incorrect Charge,0
+c00461,Commercial,Plan Change Request,0
+c00462,Digital Channels,Payment App Issue,0
+c00463,Technical Support,Connectivity Issue,1
+c00464,Digital Channels,Payment App Issue,0
+c00465,Technical Support,Connectivity Issue,0
+c00466,Billing,Incorrect Charge,0
+c00467,Billing,Incorrect Charge,1
+c00468,Retention,Cancellation Request,0
+c00469,Billing,Incorrect Charge,0
+c00470,Claims,Claim Follow-up,0
+c00471,Technical Support,Connectivity Issue,0
+c00472,Billing,Incorrect Charge,1
+c00473,Billing,Incorrect Charge,1
+c00474,Commercial,Plan Change Request,1
+c00475,Digital Channels,Payment App Issue,0
+c00476,Retention,Cancellation Request,0
+c00477,Commercial,Portability Inquiry,0
+c00478,Billing,Incorrect Charge,0
+c00479,Technical Support,Connectivity Issue,0
+c00480,Commercial,Portability Inquiry,0
+c00481,Technical Support,Connectivity Issue,0
+c00482,Retention,Cancellation Request,0
+c00483,Digital Channels,Payment App Issue,0
+c00484,Technical Support,Connectivity Issue,0
+c00485,Billing,Incorrect Charge,0
+c00486,Billing,Incorrect Charge,0
+c00487,Technical Support,Connectivity Issue,0
+c00488,Billing,Incorrect Charge,0
+c00489,General Support,Other,0
+c00490,Retention,Cancellation Request,0
+c00491,Billing,Incorrect Charge,0
+c00492,Billing,Incorrect Charge,0
+c00493,Commercial,Portability Inquiry,0
+c00494,Billing,Incorrect Charge,0
+c00495,Claims,Claim Follow-up,1
+c00496,Commercial,Portability Inquiry,0
+c00497,Billing,Incorrect Charge,0
+c00498,Technical Support,Connectivity Issue,0
+c00499,Billing,Incorrect Charge,0
+c00500,Retention,Cancellation Request,0
+c00501,Technical Support,Connectivity Issue,1
+c00502,Technical Support,Connectivity Issue,0
+c00503,Technical Support,Connectivity Issue,0
+c00504,Billing,Incorrect Charge,0
+c00505,Claims,Claim Follow-up,0
+c00506,Billing,Incorrect Charge,0
+c00507,Billing,Incorrect Charge,0
+c00508,Claims,Claim Follow-up,1
+c00509,General Support,Other,0
+c00510,Commercial,Portability Inquiry,0
+c00511,Technical Support,Connectivity Issue,0
+c00512,Claims,Claim Follow-up,0
+c00513,Billing,Incorrect Charge,1
+c00514,Digital Channels,Payment App Issue,0
+c00515,General Support,Other,0
+c00516,Claims,Claim Follow-up,0
+c00517,Commercial,Plan Change Request,0
+c00518,Digital Channels,Payment App Issue,0
+c00519,Claims,Claim Follow-up,0
+c00520,Billing,Incorrect Charge,0
+c00521,Digital Channels,Payment App Issue,0
+c00522,Retention,Cancellation Request,0
+c00523,Technical Support,Connectivity Issue,1
+c00524,Technical Support,Connectivity Issue,0
+c00525,Retention,Cancellation Request,0
+c00526,Digital Channels,Payment App Issue,0
+c00527,Digital Channels,Payment App Issue,0
+c00528,Technical Support,Connectivity Issue,0
+c00529,Commercial,Plan Change Request,0
+c00530,Commercial,Plan Change Request,0
+c00531,Technical Support,Connectivity Issue,1
+c00532,Commercial,Plan Change Request,0
+c00533,Retention,Cancellation Request,0
+c00534,Digital Channels,Payment App Issue,0
+c00535,Technical Support,Connectivity Issue,0
+c00536,Technical Support,Connectivity Issue,1
+c00537,Technical Support,Connectivity Issue,1
+c00538,Billing,Incorrect Charge,0
+c00539,Commercial,Plan Change Request,0
+c00540,Retention,Cancellation Request,0
+c00541,Retention,Cancellation Request,0
+c00542,Technical Support,Connectivity Issue,1
+c00543,Commercial,Plan Change Request,1
+c00544,Commercial,Portability Inquiry,0
+c00545,Technical Support,Connectivity Issue,1
+c00546,Commercial,Portability Inquiry,0
+c00547,Commercial,Portability Inquiry,0
+c00548,Commercial,Portability Inquiry,1
+c00549,Billing,Incorrect Charge,0
+c00550,Billing,Incorrect Charge,0
+c00551,Technical Support,Connectivity Issue,1
+c00552,Commercial,Plan Change Request,0
+c00553,Billing,Incorrect Charge,0
+c00554,Retention,Cancellation Request,0
+c00555,Billing,Incorrect Charge,1
+c00556,Commercial,Plan Change Request,0
+c00557,Retention,Cancellation Request,1
+c00558,Technical Support,Connectivity Issue,0
+c00559,Billing,Incorrect Charge,0
+c00560,General Support,Other,0
+c00561,Retention,Cancellation Request,0
+c00562,Commercial,Plan Change Request,0
+c00563,Claims,Claim Follow-up,0
+c00564,General Support,Other,0
+c00565,Commercial,Portability Inquiry,0
+c00566,General Support,Other,0
+c00567,Retention,Cancellation Request,0
+c00568,Technical Support,Connectivity Issue,0
+c00569,Technical Support,Connectivity Issue,1
+c00570,Billing,Incorrect Charge,0
+c00571,Technical Support,Connectivity Issue,1
+c00572,Technical Support,Connectivity Issue,0
+c00573,Technical Support,Connectivity Issue,0
+c00574,Digital Channels,Payment App Issue,0
+c00575,Claims,Claim Follow-up,0
+c00576,General Support,Other,0
+c00577,Technical Support,Connectivity Issue,1
+c00578,Commercial,Portability Inquiry,0
+c00579,Digital Channels,Payment App Issue,0
+c00580,Commercial,Plan Change Request,0
+c00581,Technical Support,Connectivity Issue,0
+c00582,Technical Support,Connectivity Issue,1
+c00583,Billing,Incorrect Charge,1
+c00584,Billing,Incorrect Charge,1
+c00585,Technical Support,Connectivity Issue,0
+c00586,Commercial,Plan Change Request,1
+c00587,Billing,Incorrect Charge,0
+c00588,Technical Support,Connectivity Issue,1
+c00589,General Support,Other,0
+c00590,Retention,Cancellation Request,0
+c00591,Technical Support,Connectivity Issue,0
+c00592,Claims,Claim Follow-up,1
+c00593,Digital Channels,Payment App Issue,0
+c00594,General Support,Other,0
+c00595,Claims,Claim Follow-up,0
+c00596,Technical Support,Connectivity Issue,0
+c00597,Billing,Incorrect Charge,0
+c00598,Technical Support,Connectivity Issue,0
+c00599,Commercial,Portability Inquiry,0
+c00600,Billing,Incorrect Charge,0
+c00601,General Support,Other,0
+c00602,Billing,Incorrect Charge,0
+c00603,Billing,Incorrect Charge,0
+c00604,Technical Support,Connectivity Issue,0
+c00605,Technical Support,Connectivity Issue,0
+c00606,Claims,Claim Follow-up,0
+c00607,Commercial,Plan Change Request,1
+c00608,Commercial,Plan Change Request,0
+c00609,Billing,Incorrect Charge,1
+c00610,Technical Support,Connectivity Issue,0
+c00611,Commercial,Portability Inquiry,0
+c00612,Billing,Incorrect Charge,0
+c00613,Billing,Incorrect Charge,0
+c00614,Retention,Cancellation Request,0
+c00615,Retention,Cancellation Request,0
+c00616,Technical Support,Connectivity Issue,0
+c00617,Commercial,Plan Change Request,0
+c00618,Digital Channels,Payment App Issue,1
+c00619,Technical Support,Connectivity Issue,0
+c00620,Billing,Incorrect Charge,1
+c00621,General Support,Other,0
+c00622,Digital Channels,Payment App Issue,0
+c00623,Claims,Claim Follow-up,0
+c00624,Commercial,Plan Change Request,1
+c00625,Billing,Incorrect Charge,1
+c00626,Billing,Incorrect Charge,0
+c00627,Technical Support,Connectivity Issue,0
+c00628,Retention,Cancellation Request,1
+c00629,Technical Support,Connectivity Issue,0
+c00630,Retention,Cancellation Request,0
+c00631,Billing,Incorrect Charge,0
+c00632,Digital Channels,Payment App Issue,0
+c00633,Claims,Claim Follow-up,1
+c00634,Claims,Claim Follow-up,0
+c00635,Technical Support,Connectivity Issue,0
+c00636,General Support,Other,1
+c00637,Claims,Claim Follow-up,0
+c00638,Retention,Cancellation Request,1
+c00639,Technical Support,Connectivity Issue,0
+c00640,Commercial,Plan Change Request,0
+c00641,Commercial,Plan Change Request,0
+c00642,Commercial,Plan Change Request,0
+c00643,Commercial,Portability Inquiry,0
+c00644,Retention,Cancellation Request,0
+c00645,Technical Support,Connectivity Issue,1
+c00646,Commercial,Portability Inquiry,0
+c00647,Billing,Incorrect Charge,0
+c00648,Claims,Claim Follow-up,1
+c00649,Digital Channels,Payment App Issue,0
+c00650,Billing,Incorrect Charge,0
+c00651,General Support,Other,0
+c00652,Claims,Claim Follow-up,0
+c00653,Commercial,Portability Inquiry,0
+c00654,Retention,Cancellation Request,0
+c00655,Billing,Incorrect Charge,0
+c00656,Billing,Incorrect Charge,1
+c00657,General Support,Other,0
+c00658,General Support,Other,1
+c00659,Technical Support,Connectivity Issue,0
+c00660,Claims,Claim Follow-up,0
+c00661,Billing,Incorrect Charge,0
+c00662,Technical Support,Connectivity Issue,0
+c00663,Retention,Cancellation Request,0
+c00664,Technical Support,Connectivity Issue,0
+c00665,Billing,Incorrect Charge,0
+c00666,Claims,Claim Follow-up,0
+c00667,Digital Channels,Payment App Issue,0
+c00668,Technical Support,Connectivity Issue,0
+c00669,Claims,Claim Follow-up,1
+c00670,Billing,Incorrect Charge,0
+c00671,Claims,Claim Follow-up,1
+c00672,Digital Channels,Payment App Issue,0
+c00673,Commercial,Portability Inquiry,0
+c00674,Retention,Cancellation Request,0
+c00675,Commercial,Plan Change Request,0
+c00676,General Support,Other,1
+c00677,Billing,Incorrect Charge,0
+c00678,Billing,Incorrect Charge,0
+c00679,Commercial,Plan Change Request,1
+c00680,Commercial,Plan Change Request,1
+c00681,General Support,Other,0
+c00682,Billing,Incorrect Charge,0
+c00683,Digital Channels,Payment App Issue,0
+c00684,Digital Channels,Payment App Issue,1
+c00685,Billing,Incorrect Charge,0
+c00686,Commercial,Plan Change Request,0
+c00687,Technical Support,Connectivity Issue,1
+c00688,General Support,Other,0
+c00689,Technical Support,Connectivity Issue,0
+c00690,Technical Support,Connectivity Issue,0
+c00691,Technical Support,Connectivity Issue,0
+c00692,Billing,Incorrect Charge,0
+c00693,Billing,Incorrect Charge,0
+c00694,Technical Support,Connectivity Issue,0
+c00695,Commercial,Plan Change Request,0
+c00696,Billing,Incorrect Charge,1
+c00697,Technical Support,Connectivity Issue,0
+c00698,Technical Support,Connectivity Issue,0
+c00699,Digital Channels,Payment App Issue,0
+c00700,Commercial,Portability Inquiry,0
+c00701,Commercial,Portability Inquiry,0
+c00702,Technical Support,Connectivity Issue,0
+c00703,General Support,Other,1
+c00704,Technical Support,Connectivity Issue,0
+c00705,Commercial,Plan Change Request,1
+c00706,Commercial,Portability Inquiry,1
+c00707,Claims,Claim Follow-up,0
+c00708,Commercial,Plan Change Request,0
+c00709,Retention,Cancellation Request,1
+c00710,Technical Support,Connectivity Issue,0
+c00711,Billing,Incorrect Charge,1
+c00712,Commercial,Plan Change Request,0
+c00713,Retention,Cancellation Request,0
+c00714,Technical Support,Connectivity Issue,0
+c00715,Retention,Cancellation Request,1
+c00716,Technical Support,Connectivity Issue,0
+c00717,Commercial,Plan Change Request,0
+c00718,Technical Support,Connectivity Issue,0
+c00719,Technical Support,Connectivity Issue,0
+c00720,Commercial,Portability Inquiry,0
+c00721,Billing,Incorrect Charge,1
+c00722,Commercial,Plan Change Request,0
+c00723,Digital Channels,Payment App Issue,0
+c00724,Technical Support,Connectivity Issue,1
+c00725,Technical Support,Connectivity Issue,0
+c00726,Billing,Incorrect Charge,0
+c00727,Commercial,Plan Change Request,0
+c00728,Claims,Claim Follow-up,0
+c00729,Digital Channels,Payment App Issue,1
+c00730,General Support,Other,0
+c00731,Technical Support,Connectivity Issue,0
+c00732,Commercial,Plan Change Request,0
+c00733,Technical Support,Connectivity Issue,0
+c00734,Retention,Cancellation Request,0
+c00735,Technical Support,Connectivity Issue,0
+c00736,Commercial,Plan Change Request,0
+c00737,Billing,Incorrect Charge,0
+c00738,Commercial,Plan Change Request,0
+c00739,Claims,Claim Follow-up,0
+c00740,Technical Support,Connectivity Issue,1
+c00741,Digital Channels,Payment App Issue,0
+c00742,Digital Channels,Payment App Issue,0
+c00743,Technical Support,Connectivity Issue,0
+c00744,Technical Support,Connectivity Issue,0
+c00745,Billing,Incorrect Charge,0
+c00746,Technical Support,Connectivity Issue,1
+c00747,Digital Channels,Payment App Issue,0
+c00748,Commercial,Portability Inquiry,0
+c00749,Technical Support,Connectivity Issue,0
+c00750,Retention,Cancellation Request,1
+c00751,Commercial,Plan Change Request,0
+c00752,Billing,Incorrect Charge,1
+c00753,Technical Support,Connectivity Issue,1
+c00754,Technical Support,Connectivity Issue,0
+c00755,Claims,Claim Follow-up,0
+c00756,Retention,Cancellation Request,0
+c00757,Billing,Incorrect Charge,0
+c00758,Technical Support,Connectivity Issue,1
+c00759,Commercial,Portability Inquiry,0
+c00760,Retention,Cancellation Request,1
+c00761,Commercial,Plan Change Request,1
+c00762,Commercial,Plan Change Request,0
+c00763,Commercial,Plan Change Request,0
+c00764,Technical Support,Connectivity Issue,1
+c00765,Commercial,Portability Inquiry,0
+c00766,Commercial,Plan Change Request,0
+c00767,Digital Channels,Payment App Issue,1
+c00768,Retention,Cancellation Request,1
+c00769,Technical Support,Connectivity Issue,0
+c00770,Digital Channels,Payment App Issue,0
+c00771,Digital Channels,Payment App Issue,0
+c00772,General Support,Other,0
+c00773,Digital Channels,Payment App Issue,1
+c00774,Commercial,Plan Change Request,0
+c00775,Technical Support,Connectivity Issue,0
+c00776,Commercial,Plan Change Request,0
+c00777,Claims,Claim Follow-up,0
+c00778,Billing,Incorrect Charge,0
+c00779,Commercial,Plan Change Request,0
+c00780,Commercial,Plan Change Request,0
+c00781,Retention,Cancellation Request,0
+c00782,Commercial,Portability Inquiry,0
+c00783,Technical Support,Connectivity Issue,1
+c00784,Commercial,Portability Inquiry,0
+c00785,Digital Channels,Payment App Issue,0
+c00786,Billing,Incorrect Charge,0
+c00787,Commercial,Plan Change Request,1
+c00788,Billing,Incorrect Charge,1
+c00789,Commercial,Plan Change Request,0
+c00790,Claims,Claim Follow-up,0
+c00791,Commercial,Portability Inquiry,0
+c00792,Technical Support,Connectivity Issue,0
+c00793,Digital Channels,Payment App Issue,0
+c00794,Commercial,Plan Change Request,0
+c00795,Retention,Cancellation Request,0
+c00796,Commercial,Portability Inquiry,0
+c00797,General Support,Other,0
+c00798,Commercial,Plan Change Request,0
+c00799,Commercial,Plan Change Request,0
+c00800,Technical Support,Connectivity Issue,0
+c00801,Billing,Incorrect Charge,0
+c00802,General Support,Other,0
+c00803,Technical Support,Connectivity Issue,0
+c00804,Technical Support,Connectivity Issue,0
+c00805,Technical Support,Connectivity Issue,0
+c00806,Billing,Incorrect Charge,0
+c00807,Commercial,Portability Inquiry,0
+c00808,Claims,Claim Follow-up,1
+c00809,Commercial,Portability Inquiry,0
+c00810,General Support,Other,0
+c00811,Retention,Cancellation Request,0
+c00812,Claims,Claim Follow-up,1
+c00813,Retention,Cancellation Request,0
+c00814,Claims,Claim Follow-up,1
+c00815,Technical Support,Connectivity Issue,0
+c00816,Commercial,Portability Inquiry,0
+c00817,Billing,Incorrect Charge,1
+c00818,Commercial,Portability Inquiry,0
+c00819,Retention,Cancellation Request,0
+c00820,Digital Channels,Payment App Issue,0
+c00821,Digital Channels,Payment App Issue,0
+c00822,Technical Support,Connectivity Issue,0
+c00823,Commercial,Portability Inquiry,0
+c00824,Retention,Cancellation Request,0
+c00825,Claims,Claim Follow-up,1
+c00826,Commercial,Plan Change Request,0
+c00827,Commercial,Portability Inquiry,0
+c00828,Billing,Incorrect Charge,0
+c00829,Billing,Incorrect Charge,0
+c00830,Technical Support,Connectivity Issue,0
+c00831,Commercial,Plan Change Request,0
+c00832,Billing,Incorrect Charge,0
+c00833,Retention,Cancellation Request,0
+c00834,Billing,Incorrect Charge,0
+c00835,Billing,Incorrect Charge,1
+c00836,Commercial,Portability Inquiry,0
+c00837,Commercial,Portability Inquiry,0
+c00838,Digital Channels,Payment App Issue,0
+c00839,Billing,Incorrect Charge,1
+c00840,Commercial,Portability Inquiry,0
+c00841,Billing,Incorrect Charge,0
+c00842,Billing,Incorrect Charge,0
+c00843,Digital Channels,Payment App Issue,0
+c00844,Claims,Claim Follow-up,1
+c00845,Billing,Incorrect Charge,1
+c00846,Commercial,Plan Change Request,0
+c00847,General Support,Other,0
+c00848,Technical Support,Connectivity Issue,0
+c00849,Technical Support,Connectivity Issue,1
+c00850,Commercial,Portability Inquiry,1
+c00851,Billing,Incorrect Charge,0
+c00852,Technical Support,Connectivity Issue,1
+c00853,Claims,Claim Follow-up,0
+c00854,Retention,Cancellation Request,0
+c00855,Commercial,Portability Inquiry,0
+c00856,Technical Support,Connectivity Issue,0
+c00857,Claims,Claim Follow-up,0
+c00858,Billing,Incorrect Charge,0
+c00859,Claims,Claim Follow-up,1
+c00860,Retention,Cancellation Request,0
+c00861,Commercial,Portability Inquiry,0
+c00862,General Support,Other,0
+c00863,Retention,Cancellation Request,0
+c00864,Technical Support,Connectivity Issue,0
+c00865,Digital Channels,Payment App Issue,0
+c00866,Technical Support,Connectivity Issue,1
+c00867,Technical Support,Connectivity Issue,1
+c00868,Commercial,Plan Change Request,0
+c00869,Billing,Incorrect Charge,0
+c00870,Claims,Claim Follow-up,0
+c00871,Technical Support,Connectivity Issue,0
+c00872,Commercial,Portability Inquiry,0
+c00873,Retention,Cancellation Request,0
+c00874,Commercial,Portability Inquiry,0
+c00875,Commercial,Plan Change Request,0
+c00876,Technical Support,Connectivity Issue,1
+c00877,Billing,Incorrect Charge,1
+c00878,Billing,Incorrect Charge,1
+c00879,Billing,Incorrect Charge,1
+c00880,Billing,Incorrect Charge,0
+c00881,Commercial,Portability Inquiry,0
+c00882,Digital Channels,Payment App Issue,0
+c00883,Commercial,Plan Change Request,0
+c00884,Technical Support,Connectivity Issue,0
+c00885,General Support,Other,0
+c00886,Billing,Incorrect Charge,0
+c00887,Billing,Incorrect Charge,1
+c00888,Technical Support,Connectivity Issue,1
+c00889,Retention,Cancellation Request,1
+c00890,Retention,Cancellation Request,1
+c00891,Commercial,Plan Change Request,0
+c00892,Billing,Incorrect Charge,0
+c00893,Retention,Cancellation Request,0
+c00894,Commercial,Plan Change Request,0
+c00895,Technical Support,Connectivity Issue,0
+c00896,Claims,Claim Follow-up,1
+c00897,Technical Support,Connectivity Issue,0
+c00898,Billing,Incorrect Charge,1
+c00899,Commercial,Plan Change Request,0
+c00900,Billing,Incorrect Charge,0
+c00901,Technical Support,Connectivity Issue,0
+c00902,Billing,Incorrect Charge,0
+c00903,Technical Support,Connectivity Issue,0
+c00904,Retention,Cancellation Request,0
+c00905,Billing,Incorrect Charge,0
+c00906,Retention,Cancellation Request,0
+c00907,Digital Channels,Payment App Issue,0
+c00908,Digital Channels,Payment App Issue,1
+c00909,Billing,Incorrect Charge,0
+c00910,Retention,Cancellation Request,0
+c00911,Technical Support,Connectivity Issue,1
+c00912,Commercial,Plan Change Request,0
+c00913,Billing,Incorrect Charge,0
+c00914,Digital Channels,Payment App Issue,0
+c00915,Technical Support,Connectivity Issue,1
+c00916,Commercial,Portability Inquiry,0
+c00917,Technical Support,Connectivity Issue,0
+c00918,Technical Support,Connectivity Issue,0
+c00919,Claims,Claim Follow-up,0
+c00920,General Support,Other,0
+c00921,Billing,Incorrect Charge,0
+c00922,Retention,Cancellation Request,0
+c00923,Commercial,Plan Change Request,1
+c00924,General Support,Other,1
+c00925,Technical Support,Connectivity Issue,0
+c00926,Claims,Claim Follow-up,0
+c00927,Technical Support,Connectivity Issue,1
+c00928,Digital Channels,Payment App Issue,0
+c00929,General Support,Other,0
+c00930,Commercial,Plan Change Request,0
+c00931,Technical Support,Connectivity Issue,0
+c00932,Technical Support,Connectivity Issue,1
+c00933,Technical Support,Connectivity Issue,0
+c00934,Billing,Incorrect Charge,1
+c00935,Technical Support,Connectivity Issue,1
+c00936,General Support,Other,0
+c00937,Commercial,Plan Change Request,0
+c00938,Retention,Cancellation Request,0
+c00939,Billing,Incorrect Charge,0
+c00940,General Support,Other,0
+c00941,Commercial,Portability Inquiry,0
+c00942,Digital Channels,Payment App Issue,1
+c00943,General Support,Other,0
+c00944,Claims,Claim Follow-up,0
+c00945,Claims,Claim Follow-up,0
+c00946,Digital Channels,Payment App Issue,1
+c00947,Retention,Cancellation Request,0
+c00948,Retention,Cancellation Request,0
+c00949,Technical Support,Connectivity Issue,0
+c00950,Commercial,Plan Change Request,0
+c00951,Billing,Incorrect Charge,0
+c00952,Claims,Claim Follow-up,1
+c00953,Commercial,Portability Inquiry,0
+c00954,Technical Support,Connectivity Issue,0
+c00955,Digital Channels,Payment App Issue,1
+c00956,Technical Support,Connectivity Issue,0
+c00957,Digital Channels,Payment App Issue,0
+c00958,Commercial,Portability Inquiry,0
+c00959,Retention,Cancellation Request,1
+c00960,Retention,Cancellation Request,1
+c00961,Claims,Claim Follow-up,1
+c00962,Technical Support,Connectivity Issue,1
+c00963,Retention,Cancellation Request,0
+c00964,General Support,Other,0
+c00965,Billing,Incorrect Charge,0
+c00966,Billing,Incorrect Charge,0
+c00967,Billing,Incorrect Charge,1
+c00968,Claims,Claim Follow-up,0
+c00969,Digital Channels,Payment App Issue,0
+c00970,General Support,Other,0
+c00971,Technical Support,Connectivity Issue,0
+c00972,Technical Support,Connectivity Issue,0
+c00973,Commercial,Plan Change Request,0
+c00974,Technical Support,Connectivity Issue,1
+c00975,Technical Support,Connectivity Issue,0
+c00976,Billing,Incorrect Charge,0
+c00977,Retention,Cancellation Request,0
+c00978,Commercial,Portability Inquiry,0
+c00979,Commercial,Plan Change Request,0
+c00980,Commercial,Plan Change Request,0
+c00981,Commercial,Plan Change Request,0
+c00982,Commercial,Plan Change Request,0
+c00983,Technical Support,Connectivity Issue,0
+c00984,Retention,Cancellation Request,0
+c00985,Digital Channels,Payment App Issue,0
+c00986,Retention,Cancellation Request,0
+c00987,Technical Support,Connectivity Issue,1
+c00988,Technical Support,Connectivity Issue,0
+c00989,Billing,Incorrect Charge,0
+c00990,Commercial,Plan Change Request,0
+c00991,Digital Channels,Payment App Issue,1
+c00992,Claims,Claim Follow-up,1
+c00993,Claims,Claim Follow-up,0
+c00994,Billing,Incorrect Charge,1
+c00995,Commercial,Plan Change Request,0
+c00996,Billing,Incorrect Charge,1
+c00997,Commercial,Plan Change Request,0
+c00998,Claims,Claim Follow-up,1
+c00999,Commercial,Portability Inquiry,0
+c01000,Commercial,Plan Change Request,0
+c01001,Billing,Incorrect Charge,0
+c01002,Billing,Incorrect Charge,0
+c01003,Billing,Incorrect Charge,0
+c01004,Billing,Incorrect Charge,1
+c01005,Digital Channels,Payment App Issue,0
+c01006,Billing,Incorrect Charge,0
+c01007,Billing,Incorrect Charge,1
+c01008,Retention,Cancellation Request,0
+c01009,Commercial,Portability Inquiry,0
+c01010,General Support,Other,0
+c01011,Retention,Cancellation Request,0
+c01012,Billing,Incorrect Charge,1
+c01013,Commercial,Plan Change Request,0
+c01014,General Support,Other,0
+c01015,Claims,Claim Follow-up,0
+c01016,Technical Support,Connectivity Issue,0
+c01017,Technical Support,Connectivity Issue,0
+c01018,Commercial,Plan Change Request,0
+c01019,Commercial,Plan Change Request,0
+c01020,Billing,Incorrect Charge,0
+c01021,Technical Support,Connectivity Issue,0
+c01022,Digital Channels,Payment App Issue,0
+c01023,General Support,Other,0
+c01024,Retention,Cancellation Request,0
+c01025,Technical Support,Connectivity Issue,0
+c01026,Retention,Cancellation Request,0
+c01027,Retention,Cancellation Request,1
+c01028,Technical Support,Connectivity Issue,0
+c01029,Billing,Incorrect Charge,0
+c01030,Billing,Incorrect Charge,0
+c01031,Commercial,Plan Change Request,0
+c01032,Commercial,Plan Change Request,0
+c01033,General Support,Other,0
+c01034,Retention,Cancellation Request,0
+c01035,Retention,Cancellation Request,0
+c01036,Technical Support,Connectivity Issue,1
+c01037,Commercial,Portability Inquiry,0
+c01038,Digital Channels,Payment App Issue,0
+c01039,Commercial,Plan Change Request,0
+c01040,Retention,Cancellation Request,0
+c01041,Technical Support,Connectivity Issue,0
+c01042,Billing,Incorrect Charge,1
+c01043,Technical Support,Connectivity Issue,0
+c01044,Billing,Incorrect Charge,0
+c01045,Billing,Incorrect Charge,0
+c01046,Digital Channels,Payment App Issue,0
+c01047,Claims,Claim Follow-up,0
+c01048,Technical Support,Connectivity Issue,0
+c01049,Billing,Incorrect Charge,0
+c01050,Technical Support,Connectivity Issue,0
+c01051,Technical Support,Connectivity Issue,0
+c01052,Claims,Claim Follow-up,0
+c01053,Commercial,Plan Change Request,0
+c01054,Claims,Claim Follow-up,0
+c01055,Digital Channels,Payment App Issue,0
+c01056,Technical Support,Connectivity Issue,1
+c01057,Billing,Incorrect Charge,0
+c01058,Billing,Incorrect Charge,0
+c01059,Billing,Incorrect Charge,1
+c01060,Commercial,Plan Change Request,0
+c01061,Claims,Claim Follow-up,0
+c01062,General Support,Other,0
+c01063,General Support,Other,0
+c01064,Commercial,Plan Change Request,0
+c01065,General Support,Other,0
+c01066,Commercial,Portability Inquiry,0
+c01067,Claims,Claim Follow-up,0
+c01068,Claims,Claim Follow-up,0
+c01069,Billing,Incorrect Charge,0
+c01070,Digital Channels,Payment App Issue,0
+c01071,Claims,Claim Follow-up,0
+c01072,Retention,Cancellation Request,0
+c01073,Billing,Incorrect Charge,0
+c01074,Retention,Cancellation Request,0
+c01075,Technical Support,Connectivity Issue,0
+c01076,Billing,Incorrect Charge,1
+c01077,Digital Channels,Payment App Issue,0
+c01078,Commercial,Plan Change Request,0
+c01079,Retention,Cancellation Request,0
+c01080,Retention,Cancellation Request,0
+c01081,Claims,Claim Follow-up,0
+c01082,Billing,Incorrect Charge,0
+c01083,Technical Support,Connectivity Issue,1
+c01084,Digital Channels,Payment App Issue,0
+c01085,Technical Support,Connectivity Issue,1
+c01086,Billing,Incorrect Charge,1
+c01087,Commercial,Portability Inquiry,0
+c01088,Digital Channels,Payment App Issue,1
+c01089,General Support,Other,0
+c01090,Claims,Claim Follow-up,0
+c01091,Technical Support,Connectivity Issue,0
+c01092,General Support,Other,0
+c01093,Commercial,Portability Inquiry,0
+c01094,Technical Support,Connectivity Issue,0
+c01095,General Support,Other,0
+c01096,Claims,Claim Follow-up,0
+c01097,Technical Support,Connectivity Issue,0
+c01098,Commercial,Plan Change Request,0
+c01099,Commercial,Portability Inquiry,0
+c01100,Commercial,Portability Inquiry,0
+c01101,Technical Support,Connectivity Issue,1
+c01102,Commercial,Plan Change Request,0
+c01103,Technical Support,Connectivity Issue,0
+c01104,Technical Support,Connectivity Issue,0
+c01105,Commercial,Portability Inquiry,1
+c01106,General Support,Other,0
+c01107,Digital Channels,Payment App Issue,1
+c01108,Commercial,Plan Change Request,0
+c01109,Claims,Claim Follow-up,1
+c01110,General Support,Other,0
+c01111,Technical Support,Connectivity Issue,0
+c01112,Commercial,Plan Change Request,0
+c01113,Commercial,Portability Inquiry,0
+c01114,Commercial,Plan Change Request,0
+c01115,Technical Support,Connectivity Issue,0
+c01116,Billing,Incorrect Charge,0
+c01117,Commercial,Plan Change Request,1
+c01118,Technical Support,Connectivity Issue,0
+c01119,Retention,Cancellation Request,0
+c01120,Claims,Claim Follow-up,0
+c01121,Billing,Incorrect Charge,1
+c01122,Retention,Cancellation Request,0
+c01123,Digital Channels,Payment App Issue,0
+c01124,Billing,Incorrect Charge,0
+c01125,Technical Support,Connectivity Issue,0
+c01126,Technical Support,Connectivity Issue,1
+c01127,Digital Channels,Payment App Issue,1
+c01128,Commercial,Portability Inquiry,0
+c01129,Billing,Incorrect Charge,0
+c01130,Commercial,Portability Inquiry,0
+c01131,General Support,Other,0
+c01132,General Support,Other,0
+c01133,Technical Support,Connectivity Issue,0
+c01134,Retention,Cancellation Request,0
+c01135,Technical Support,Connectivity Issue,0
+c01136,Billing,Incorrect Charge,1
+c01137,Billing,Incorrect Charge,0
+c01138,Claims,Claim Follow-up,1
+c01139,Billing,Incorrect Charge,0
+c01140,Billing,Incorrect Charge,0
+c01141,Retention,Cancellation Request,1
+c01142,Billing,Incorrect Charge,0
+c01143,Commercial,Plan Change Request,0
+c01144,Digital Channels,Payment App Issue,1
+c01145,General Support,Other,0
+c01146,Digital Channels,Payment App Issue,0
+c01147,Digital Channels,Payment App Issue,1
+c01148,Retention,Cancellation Request,0
+c01149,Digital Channels,Payment App Issue,0
+c01150,Claims,Claim Follow-up,0
+c01151,Technical Support,Connectivity Issue,1
+c01152,Billing,Incorrect Charge,0
+c01153,Billing,Incorrect Charge,0
+c01154,Commercial,Portability Inquiry,0
+c01155,Technical Support,Connectivity Issue,0
+c01156,Commercial,Plan Change Request,0
+c01157,Technical Support,Connectivity Issue,1
+c01158,Retention,Cancellation Request,0
+c01159,Commercial,Portability Inquiry,0
+c01160,Billing,Incorrect Charge,0
+c01161,Technical Support,Connectivity Issue,1
+c01162,Digital Channels,Payment App Issue,0
+c01163,Billing,Incorrect Charge,0
+c01164,Technical Support,Connectivity Issue,0
+c01165,Billing,Incorrect Charge,0
+c01166,Billing,Incorrect Charge,0
+c01167,Commercial,Plan Change Request,0
+c01168,Commercial,Portability Inquiry,0
+c01169,Digital Channels,Payment App Issue,0
+c01170,Retention,Cancellation Request,0
+c01171,Claims,Claim Follow-up,0
+c01172,Digital Channels,Payment App Issue,1
+c01173,Digital Channels,Payment App Issue,0
+c01174,Commercial,Portability Inquiry,0
+c01175,Billing,Incorrect Charge,0
+c01176,Billing,Incorrect Charge,0
+c01177,Claims,Claim Follow-up,0
+c01178,Billing,Incorrect Charge,1
+c01179,Commercial,Plan Change Request,1
+c01180,Claims,Claim Follow-up,1
+c01181,Retention,Cancellation Request,0
+c01182,Billing,Incorrect Charge,0
+c01183,Digital Channels,Payment App Issue,0
+c01184,Digital Channels,Payment App Issue,0
+c01185,Technical Support,Connectivity Issue,0
+c01186,Commercial,Portability Inquiry,0
+c01187,Commercial,Portability Inquiry,0
+c01188,General Support,Other,0
+c01189,Commercial,Portability Inquiry,0
+c01190,Commercial,Portability Inquiry,0
+c01191,Digital Channels,Payment App Issue,0
+c01192,Commercial,Plan Change Request,1
+c01193,General Support,Other,0
+c01194,Technical Support,Connectivity Issue,0
+c01195,Commercial,Portability Inquiry,0
+c01196,Commercial,Plan Change Request,0
+c01197,Billing,Incorrect Charge,0
+c01198,Billing,Incorrect Charge,0
+c01199,Digital Channels,Payment App Issue,0
+c01200,Technical Support,Connectivity Issue,1
+c01201,Technical Support,Connectivity Issue,0
+c01202,Retention,Cancellation Request,0
+c01203,Technical Support,Connectivity Issue,0
+c01204,Commercial,Plan Change Request,0
+c01205,Digital Channels,Payment App Issue,0
+c01206,Digital Channels,Payment App Issue,0
+c01207,Digital Channels,Payment App Issue,1
+c01208,Commercial,Portability Inquiry,0
+c01209,Commercial,Portability Inquiry,0
+c01210,Technical Support,Connectivity Issue,0
+c01211,Retention,Cancellation Request,0
+c01212,Billing,Incorrect Charge,0
+c01213,Claims,Claim Follow-up,0
+c01214,Digital Channels,Payment App Issue,0
+c01215,Technical Support,Connectivity Issue,1
+c01216,General Support,Other,0
+c01217,Technical Support,Connectivity Issue,1
+c01218,Billing,Incorrect Charge,0
+c01219,Commercial,Portability Inquiry,0
+c01220,Digital Channels,Payment App Issue,0
+c01221,Retention,Cancellation Request,0
+c01222,Technical Support,Connectivity Issue,1
+c01223,Retention,Cancellation Request,0
+c01224,Technical Support,Connectivity Issue,0
+c01225,Technical Support,Connectivity Issue,0
+c01226,Digital Channels,Payment App Issue,0
+c01227,Billing,Incorrect Charge,0
+c01228,General Support,Other,1
+c01229,Billing,Incorrect Charge,0
+c01230,Billing,Incorrect Charge,0
+c01231,Technical Support,Connectivity Issue,1
+c01232,Commercial,Portability Inquiry,0
+c01233,Retention,Cancellation Request,0
+c01234,Retention,Cancellation Request,0
+c01235,Digital Channels,Payment App Issue,0
+c01236,Technical Support,Connectivity Issue,1
+c01237,Technical Support,Connectivity Issue,0
+c01238,Commercial,Plan Change Request,0
+c01239,Technical Support,Connectivity Issue,1
+c01240,General Support,Other,0
+c01241,Billing,Incorrect Charge,0
+c01242,Commercial,Plan Change Request,0
+c01243,Commercial,Plan Change Request,0
+c01244,Commercial,Portability Inquiry,0
+c01245,Commercial,Plan Change Request,0
+c01246,General Support,Other,0
+c01247,Digital Channels,Payment App Issue,0
+c01248,Billing,Incorrect Charge,0
+c01249,Digital Channels,Payment App Issue,0
+c01250,Digital Channels,Payment App Issue,0
+c01251,Technical Support,Connectivity Issue,0
+c01252,Billing,Incorrect Charge,0
+c01253,Billing,Incorrect Charge,0
+c01254,Commercial,Plan Change Request,0
+c01255,Commercial,Portability Inquiry,0
+c01256,Digital Channels,Payment App Issue,0
+c01257,Commercial,Plan Change Request,0
+c01258,Technical Support,Connectivity Issue,1
+c01259,Commercial,Plan Change Request,0
+c01260,Commercial,Portability Inquiry,1
+c01261,Technical Support,Connectivity Issue,0
+c01262,Billing,Incorrect Charge,0
+c01263,Billing,Incorrect Charge,0
+c01264,Technical Support,Connectivity Issue,1
+c01265,Commercial,Plan Change Request,1
+c01266,General Support,Other,0
+c01267,Technical Support,Connectivity Issue,1
+c01268,Billing,Incorrect Charge,0
+c01269,Digital Channels,Payment App Issue,0
+c01270,Billing,Incorrect Charge,0
+c01271,Retention,Cancellation Request,1
+c01272,Technical Support,Connectivity Issue,1
+c01273,Billing,Incorrect Charge,0
+c01274,Commercial,Plan Change Request,0
+c01275,Commercial,Plan Change Request,0
+c01276,Technical Support,Connectivity Issue,0
+c01277,Commercial,Portability Inquiry,0
+c01278,Billing,Incorrect Charge,0
+c01279,Retention,Cancellation Request,0
+c01280,Technical Support,Connectivity Issue,0
+c01281,Commercial,Plan Change Request,0
+c01282,Billing,Incorrect Charge,1
+c01283,Billing,Incorrect Charge,0
+c01284,Retention,Cancellation Request,0
+c01285,Billing,Incorrect Charge,1
+c01286,Commercial,Portability Inquiry,0
+c01287,Billing,Incorrect Charge,1
+c01288,Commercial,Portability Inquiry,0
+c01289,Digital Channels,Payment App Issue,0
+c01290,Claims,Claim Follow-up,1
+c01291,Commercial,Plan Change Request,0
+c01292,Technical Support,Connectivity Issue,0
+c01293,General Support,Other,0
+c01294,Commercial,Plan Change Request,0
+c01295,Billing,Incorrect Charge,0
+c01296,Technical Support,Connectivity Issue,0
+c01297,Technical Support,Connectivity Issue,1
+c01298,Commercial,Plan Change Request,0
+c01299,Technical Support,Connectivity Issue,0
+c01300,Billing,Incorrect Charge,0
+c01301,Technical Support,Connectivity Issue,0
+c01302,Digital Channels,Payment App Issue,0
+c01303,Digital Channels,Payment App Issue,1
+c01304,Billing,Incorrect Charge,0
+c01305,General Support,Other,1
+c01306,Claims,Claim Follow-up,1
+c01307,Billing,Incorrect Charge,0
+c01308,Billing,Incorrect Charge,0
+c01309,General Support,Other,0
+c01310,Technical Support,Connectivity Issue,0
+c01311,Billing,Incorrect Charge,0
+c01312,Billing,Incorrect Charge,1
+c01313,General Support,Other,0
+c01314,Retention,Cancellation Request,0
+c01315,Billing,Incorrect Charge,0
+c01316,Billing,Incorrect Charge,0
+c01317,Retention,Cancellation Request,0
+c01318,Billing,Incorrect Charge,0
+c01319,Digital Channels,Payment App Issue,0
+c01320,Digital Channels,Payment App Issue,0
+c01321,Technical Support,Connectivity Issue,0
+c01322,Technical Support,Connectivity Issue,1
+c01323,Technical Support,Connectivity Issue,0
+c01324,Technical Support,Connectivity Issue,0
+c01325,Technical Support,Connectivity Issue,0
+c01326,Technical Support,Connectivity Issue,1
+c01327,General Support,Other,0
+c01328,Retention,Cancellation Request,1
+c01329,Commercial,Portability Inquiry,0
+c01330,Commercial,Portability Inquiry,0
+c01331,Digital Channels,Payment App Issue,0
+c01332,Digital Channels,Payment App Issue,0
+c01333,Technical Support,Connectivity Issue,1
+c01334,Commercial,Portability Inquiry,0
+c01335,Digital Channels,Payment App Issue,0
+c01336,Technical Support,Connectivity Issue,0
+c01337,General Support,Other,0
+c01338,Billing,Incorrect Charge,0
+c01339,Commercial,Plan Change Request,0
+c01340,Billing,Incorrect Charge,1
+c01341,Technical Support,Connectivity Issue,0
+c01342,Commercial,Plan Change Request,0
+c01343,General Support,Other,0
+c01344,Billing,Incorrect Charge,0
+c01345,Digital Channels,Payment App Issue,1
+c01346,Billing,Incorrect Charge,1
+c01347,Technical Support,Connectivity Issue,0
+c01348,Billing,Incorrect Charge,1
+c01349,Commercial,Plan Change Request,0
+c01350,Digital Channels,Payment App Issue,0
+c01351,Billing,Incorrect Charge,1
+c01352,Retention,Cancellation Request,0
+c01353,Billing,Incorrect Charge,0
+c01354,Claims,Claim Follow-up,0
+c01355,Commercial,Portability Inquiry,0
+c01356,Retention,Cancellation Request,0
+c01357,Billing,Incorrect Charge,0
+c01358,Claims,Claim Follow-up,0
+c01359,Billing,Incorrect Charge,1
+c01360,Commercial,Portability Inquiry,0
+c01361,Commercial,Plan Change Request,0
+c01362,General Support,Other,0
+c01363,Billing,Incorrect Charge,0
+c01364,Commercial,Plan Change Request,0
+c01365,Digital Channels,Payment App Issue,0
+c01366,Commercial,Plan Change Request,0
+c01367,Commercial,Portability Inquiry,0
+c01368,Claims,Claim Follow-up,1
+c01369,Technical Support,Connectivity Issue,0
+c01370,Commercial,Plan Change Request,0
+c01371,Technical Support,Connectivity Issue,0
+c01372,Billing,Incorrect Charge,0
+c01373,Technical Support,Connectivity Issue,0
+c01374,Billing,Incorrect Charge,1
+c01375,Digital Channels,Payment App Issue,1
+c01376,Technical Support,Connectivity Issue,0
+c01377,Commercial,Portability Inquiry,0
+c01378,Commercial,Portability Inquiry,0
+c01379,General Support,Other,0
+c01380,Claims,Claim Follow-up,1
+c01381,Commercial,Plan Change Request,0
+c01382,Billing,Incorrect Charge,0
+c01383,Digital Channels,Payment App Issue,1
+c01384,Technical Support,Connectivity Issue,0
+c01385,Technical Support,Connectivity Issue,1
+c01386,Retention,Cancellation Request,1
+c01387,Technical Support,Connectivity Issue,1
+c01388,Commercial,Portability Inquiry,0
+c01389,Digital Channels,Payment App Issue,0
+c01390,Claims,Claim Follow-up,0
+c01391,Technical Support,Connectivity Issue,0
+c01392,Retention,Cancellation Request,1
+c01393,Technical Support,Connectivity Issue,0
+c01394,Digital Channels,Payment App Issue,0
+c01395,Technical Support,Connectivity Issue,0
+c01396,Commercial,Plan Change Request,0
+c01397,Commercial,Plan Change Request,0
+c01398,Digital Channels,Payment App Issue,0
+c01399,Technical Support,Connectivity Issue,0
+c01400,Billing,Incorrect Charge,0
+c01401,Commercial,Plan Change Request,0
+c01402,Technical Support,Connectivity Issue,0
+c01403,Claims,Claim Follow-up,1
+c01404,General Support,Other,0
+c01405,Commercial,Plan Change Request,0
+c01406,Retention,Cancellation Request,0
+c01407,Commercial,Plan Change Request,0
+c01408,Billing,Incorrect Charge,0
+c01409,Digital Channels,Payment App Issue,0
+c01410,Commercial,Plan Change Request,0
+c01411,Commercial,Plan Change Request,0
+c01412,Technical Support,Connectivity Issue,1
+c01413,Retention,Cancellation Request,0
+c01414,Technical Support,Connectivity Issue,1
+c01415,Billing,Incorrect Charge,1
+c01416,Digital Channels,Payment App Issue,0
+c01417,Commercial,Plan Change Request,0
+c01418,Retention,Cancellation Request,0
+c01419,General Support,Other,0
+c01420,Billing,Incorrect Charge,0
+c01421,Digital Channels,Payment App Issue,0
+c01422,Commercial,Portability Inquiry,0
+c01423,Billing,Incorrect Charge,0
+c01424,Claims,Claim Follow-up,1
+c01425,Claims,Claim Follow-up,0
+c01426,Billing,Incorrect Charge,0
+c01427,Commercial,Portability Inquiry,0
+c01428,Billing,Incorrect Charge,0
+c01429,Retention,Cancellation Request,0
+c01430,Commercial,Plan Change Request,0
+c01431,Billing,Incorrect Charge,0
+c01432,Retention,Cancellation Request,0
+c01433,Technical Support,Connectivity Issue,1
+c01434,Billing,Incorrect Charge,0
+c01435,Billing,Incorrect Charge,0
+c01436,Commercial,Portability Inquiry,0
+c01437,Billing,Incorrect Charge,0
+c01438,Billing,Incorrect Charge,1
+c01439,Technical Support,Connectivity Issue,0
+c01440,Commercial,Plan Change Request,0
+c01441,Technical Support,Connectivity Issue,0
+c01442,Billing,Incorrect Charge,0
+c01443,Digital Channels,Payment App Issue,0
+c01444,Retention,Cancellation Request,0
+c01445,Technical Support,Connectivity Issue,0
+c01446,Retention,Cancellation Request,0
+c01447,Retention,Cancellation Request,0
+c01448,Technical Support,Connectivity Issue,1
+c01449,Billing,Incorrect Charge,1
+c01450,Commercial,Plan Change Request,0
+c01451,Commercial,Plan Change Request,0
+c01452,Billing,Incorrect Charge,0
+c01453,Billing,Incorrect Charge,1
+c01454,Commercial,Portability Inquiry,0
+c01455,Technical Support,Connectivity Issue,1
+c01456,Retention,Cancellation Request,0
+c01457,Retention,Cancellation Request,1
+c01458,Technical Support,Connectivity Issue,0
+c01459,Technical Support,Connectivity Issue,0
+c01460,Technical Support,Connectivity Issue,0
+c01461,Technical Support,Connectivity Issue,1
+c01462,General Support,Other,1
+c01463,General Support,Other,0
+c01464,Retention,Cancellation Request,0
+c01465,Technical Support,Connectivity Issue,0
+c01466,Claims,Claim Follow-up,0
+c01467,Retention,Cancellation Request,0
+c01468,Technical Support,Connectivity Issue,0
+c01469,Retention,Cancellation Request,0
+c01470,Billing,Incorrect Charge,0
+c01471,Retention,Cancellation Request,0
+c01472,Digital Channels,Payment App Issue,0
+c01473,Commercial,Portability Inquiry,0
+c01474,Technical Support,Connectivity Issue,0
+c01475,Technical Support,Connectivity Issue,0
+c01476,Digital Channels,Payment App Issue,0
+c01477,Digital Channels,Payment App Issue,0
+c01478,Billing,Incorrect Charge,1
+c01479,Billing,Incorrect Charge,0
+c01480,Technical Support,Connectivity Issue,1
+c01481,Commercial,Plan Change Request,0
+c01482,General Support,Other,0
+c01483,Billing,Incorrect Charge,0
+c01484,Retention,Cancellation Request,0
+c01485,Retention,Cancellation Request,0
+c01486,Commercial,Portability Inquiry,0
+c01487,Digital Channels,Payment App Issue,0
+c01488,Digital Channels,Payment App Issue,1
+c01489,Claims,Claim Follow-up,0
+c01490,Technical Support,Connectivity Issue,1
+c01491,Digital Channels,Payment App Issue,0
+c01492,Technical Support,Connectivity Issue,0
+c01493,Retention,Cancellation Request,1
+c01494,Billing,Incorrect Charge,0
+c01495,Technical Support,Connectivity Issue,0
+c01496,Retention,Cancellation Request,1
+c01497,Technical Support,Connectivity Issue,0
+c01498,Billing,Incorrect Charge,0
+c01499,Digital Channels,Payment App Issue,0
+c01500,Technical Support,Connectivity Issue,0
+c01501,Technical Support,Connectivity Issue,0
+c01502,Commercial,Plan Change Request,0
+c01503,Commercial,Plan Change Request,1
+c01504,Commercial,Portability Inquiry,0
+c01505,Commercial,Portability Inquiry,0
+c01506,General Support,Other,0
+c01507,Claims,Claim Follow-up,1
+c01508,Billing,Incorrect Charge,1
+c01509,Claims,Claim Follow-up,0
+c01510,Technical Support,Connectivity Issue,0
+c01511,Retention,Cancellation Request,0
+c01512,Billing,Incorrect Charge,1
+c01513,Retention,Cancellation Request,0
+c01514,Claims,Claim Follow-up,0
+c01515,Commercial,Plan Change Request,0
+c01516,Technical Support,Connectivity Issue,1
+c01517,Claims,Claim Follow-up,1
+c01518,Claims,Claim Follow-up,1
+c01519,Digital Channels,Payment App Issue,0
+c01520,Claims,Claim Follow-up,1
+c01521,General Support,Other,0
+c01522,Digital Channels,Payment App Issue,0
+c01523,Commercial,Plan Change Request,0
+c01524,Technical Support,Connectivity Issue,0
+c01525,Billing,Incorrect Charge,0
+c01526,Claims,Claim Follow-up,1
+c01527,Billing,Incorrect Charge,0
+c01528,Technical Support,Connectivity Issue,0
+c01529,Technical Support,Connectivity Issue,0
+c01530,Technical Support,Connectivity Issue,0
+c01531,Retention,Cancellation Request,1
+c01532,Commercial,Portability Inquiry,0
+c01533,Retention,Cancellation Request,1
+c01534,Retention,Cancellation Request,0
+c01535,Technical Support,Connectivity Issue,0
+c01536,Claims,Claim Follow-up,0
+c01537,Billing,Incorrect Charge,0
+c01538,Technical Support,Connectivity Issue,0
+c01539,Technical Support,Connectivity Issue,0
+c01540,Digital Channels,Payment App Issue,0
+c01541,Technical Support,Connectivity Issue,0
+c01542,Technical Support,Connectivity Issue,0
+c01543,Digital Channels,Payment App Issue,0
+c01544,Commercial,Plan Change Request,1
+c01545,Commercial,Plan Change Request,0
+c01546,Billing,Incorrect Charge,0
+c01547,Technical Support,Connectivity Issue,0
+c01548,Billing,Incorrect Charge,0
+c01549,Digital Channels,Payment App Issue,0
+c01550,Digital Channels,Payment App Issue,0
+c01551,Billing,Incorrect Charge,0
+c01552,Technical Support,Connectivity Issue,0
+c01553,General Support,Other,0
+c01554,Technical Support,Connectivity Issue,0
+c01555,Digital Channels,Payment App Issue,0
+c01556,Commercial,Portability Inquiry,0
+c01557,Digital Channels,Payment App Issue,0
+c01558,Commercial,Plan Change Request,0
+c01559,General Support,Other,0
+c01560,Billing,Incorrect Charge,0
+c01561,Claims,Claim Follow-up,0
+c01562,Technical Support,Connectivity Issue,1
+c01563,Digital Channels,Payment App Issue,1
+c01564,Digital Channels,Payment App Issue,1
+c01565,Technical Support,Connectivity Issue,1
+c01566,Claims,Claim Follow-up,0
+c01567,Technical Support,Connectivity Issue,0
+c01568,General Support,Other,0
+c01569,Billing,Incorrect Charge,0
+c01570,Technical Support,Connectivity Issue,0
+c01571,Technical Support,Connectivity Issue,0
+c01572,Billing,Incorrect Charge,0
+c01573,Billing,Incorrect Charge,1
+c01574,Billing,Incorrect Charge,0
+c01575,Billing,Incorrect Charge,0
+c01576,Claims,Claim Follow-up,0
+c01577,Commercial,Plan Change Request,0
+c01578,Technical Support,Connectivity Issue,0
+c01579,Billing,Incorrect Charge,0
+c01580,Retention,Cancellation Request,0
+c01581,Technical Support,Connectivity Issue,0
+c01582,Technical Support,Connectivity Issue,0
+c01583,Digital Channels,Payment App Issue,1
+c01584,Billing,Incorrect Charge,0
+c01585,Retention,Cancellation Request,0
+c01586,Commercial,Plan Change Request,0
+c01587,Technical Support,Connectivity Issue,1
+c01588,Commercial,Plan Change Request,0
+c01589,Commercial,Plan Change Request,1
+c01590,Commercial,Plan Change Request,0
+c01591,Commercial,Plan Change Request,0
+c01592,General Support,Other,0
+c01593,Billing,Incorrect Charge,0
+c01594,Billing,Incorrect Charge,0
+c01595,General Support,Other,0
+c01596,Technical Support,Connectivity Issue,0
+c01597,Technical Support,Connectivity Issue,0
+c01598,Technical Support,Connectivity Issue,0
+c01599,Retention,Cancellation Request,0
+c01600,Technical Support,Connectivity Issue,1
+c01601,Billing,Incorrect Charge,0
+c01602,Technical Support,Connectivity Issue,1
+c01603,Technical Support,Connectivity Issue,0
+c01604,Technical Support,Connectivity Issue,0
+c01605,Technical Support,Connectivity Issue,0
+c01606,Technical Support,Connectivity Issue,0
+c01607,Retention,Cancellation Request,0
+c01608,Commercial,Plan Change Request,0
+c01609,Commercial,Plan Change Request,0
+c01610,Billing,Incorrect Charge,0
+c01611,Commercial,Portability Inquiry,0
+c01612,Commercial,Portability Inquiry,0
+c01613,Commercial,Plan Change Request,0
+c01614,Billing,Incorrect Charge,1
+c01615,Technical Support,Connectivity Issue,0
+c01616,Technical Support,Connectivity Issue,0
+c01617,Retention,Cancellation Request,0
+c01618,Billing,Incorrect Charge,0
+c01619,Commercial,Plan Change Request,0
+c01620,Commercial,Plan Change Request,0
+c01621,Commercial,Portability Inquiry,0
+c01622,Claims,Claim Follow-up,0
+c01623,Digital Channels,Payment App Issue,1
+c01624,Billing,Incorrect Charge,1
+c01625,Billing,Incorrect Charge,0
+c01626,Billing,Incorrect Charge,0
+c01627,Technical Support,Connectivity Issue,0
+c01628,Technical Support,Connectivity Issue,0
+c01629,Digital Channels,Payment App Issue,1
+c01630,Billing,Incorrect Charge,0
+c01631,Claims,Claim Follow-up,0
+c01632,Digital Channels,Payment App Issue,0
+c01633,Retention,Cancellation Request,0
+c01634,Commercial,Portability Inquiry,0
+c01635,Commercial,Portability Inquiry,0
+c01636,Billing,Incorrect Charge,0
+c01637,Commercial,Plan Change Request,1
+c01638,Technical Support,Connectivity Issue,0
+c01639,Commercial,Plan Change Request,0
+c01640,Billing,Incorrect Charge,0
+c01641,Billing,Incorrect Charge,0
+c01642,Billing,Incorrect Charge,0
+c01643,Digital Channels,Payment App Issue,0
+c01644,Commercial,Plan Change Request,0
+c01645,Technical Support,Connectivity Issue,0
+c01646,Digital Channels,Payment App Issue,0
+c01647,Technical Support,Connectivity Issue,0
+c01648,Technical Support,Connectivity Issue,0
+c01649,Technical Support,Connectivity Issue,0
+c01650,Technical Support,Connectivity Issue,0
+c01651,Commercial,Plan Change Request,0
+c01652,Billing,Incorrect Charge,0
+c01653,Digital Channels,Payment App Issue,1
+c01654,Commercial,Plan Change Request,0
+c01655,Technical Support,Connectivity Issue,1
+c01656,Claims,Claim Follow-up,1
+c01657,Billing,Incorrect Charge,0
+c01658,Billing,Incorrect Charge,1
+c01659,Claims,Claim Follow-up,0
+c01660,Technical Support,Connectivity Issue,0
+c01661,Commercial,Plan Change Request,0
+c01662,Billing,Incorrect Charge,0
+c01663,Claims,Claim Follow-up,0
+c01664,Commercial,Plan Change Request,1
+c01665,Commercial,Plan Change Request,0
+c01666,Billing,Incorrect Charge,0
+c01667,Claims,Claim Follow-up,0
+c01668,Billing,Incorrect Charge,0
+c01669,Retention,Cancellation Request,0
+c01670,Retention,Cancellation Request,0
+c01671,Billing,Incorrect Charge,1
+c01672,Digital Channels,Payment App Issue,1
+c01673,Commercial,Portability Inquiry,0
+c01674,Technical Support,Connectivity Issue,0
+c01675,Commercial,Plan Change Request,0
+c01676,Commercial,Plan Change Request,0
+c01677,Commercial,Portability Inquiry,1
+c01678,Claims,Claim Follow-up,0
+c01679,Retention,Cancellation Request,0
+c01680,Billing,Incorrect Charge,0
+c01681,General Support,Other,1
+c01682,Technical Support,Connectivity Issue,0
+c01683,Retention,Cancellation Request,0
+c01684,Digital Channels,Payment App Issue,0
+c01685,Technical Support,Connectivity Issue,1
+c01686,Billing,Incorrect Charge,1
+c01687,Retention,Cancellation Request,0
+c01688,Commercial,Portability Inquiry,0
+c01689,Technical Support,Connectivity Issue,0
+c01690,Billing,Incorrect Charge,1
+c01691,Commercial,Plan Change Request,0
+c01692,Digital Channels,Payment App Issue,0
+c01693,Retention,Cancellation Request,0
+c01694,Billing,Incorrect Charge,0
+c01695,Commercial,Plan Change Request,0
+c01696,Technical Support,Connectivity Issue,0
+c01697,Claims,Claim Follow-up,0
+c01698,Technical Support,Connectivity Issue,0
+c01699,Technical Support,Connectivity Issue,0
+c01700,Billing,Incorrect Charge,0
+c01701,Claims,Claim Follow-up,0
+c01702,Retention,Cancellation Request,0
+c01703,Technical Support,Connectivity Issue,0
+c01704,Billing,Incorrect Charge,1
+c01705,Billing,Incorrect Charge,0
+c01706,Billing,Incorrect Charge,1
+c01707,Billing,Incorrect Charge,1
+c01708,Technical Support,Connectivity Issue,1
+c01709,Retention,Cancellation Request,0
+c01710,Commercial,Portability Inquiry,0
+c01711,General Support,Other,0
+c01712,Billing,Incorrect Charge,1
+c01713,Technical Support,Connectivity Issue,0
+c01714,Digital Channels,Payment App Issue,0
+c01715,Digital Channels,Payment App Issue,0
+c01716,Billing,Incorrect Charge,0
+c01717,General Support,Other,1
+c01718,General Support,Other,0
+c01719,Retention,Cancellation Request,0
+c01720,Digital Channels,Payment App Issue,0
+c01721,Technical Support,Connectivity Issue,1
+c01722,Billing,Incorrect Charge,0
+c01723,Technical Support,Connectivity Issue,0
+c01724,Billing,Incorrect Charge,0
+c01725,Retention,Cancellation Request,0
+c01726,Retention,Cancellation Request,0
+c01727,Billing,Incorrect Charge,0
+c01728,Technical Support,Connectivity Issue,0
+c01729,Billing,Incorrect Charge,0
+c01730,Commercial,Plan Change Request,0
+c01731,Claims,Claim Follow-up,0
+c01732,Claims,Claim Follow-up,1
+c01733,Commercial,Plan Change Request,0
+c01734,Digital Channels,Payment App Issue,0
+c01735,Technical Support,Connectivity Issue,0
+c01736,General Support,Other,0
+c01737,Billing,Incorrect Charge,0
+c01738,Billing,Incorrect Charge,0
+c01739,Retention,Cancellation Request,0
+c01740,Billing,Incorrect Charge,0
+c01741,Commercial,Portability Inquiry,0
+c01742,Technical Support,Connectivity Issue,0
+c01743,Billing,Incorrect Charge,1
+c01744,Billing,Incorrect Charge,0
+c01745,Digital Channels,Payment App Issue,0
+c01746,Technical Support,Connectivity Issue,0
+c01747,Retention,Cancellation Request,0
+c01748,Technical Support,Connectivity Issue,0
+c01749,Billing,Incorrect Charge,0
+c01750,Technical Support,Connectivity Issue,1
+c01751,Technical Support,Connectivity Issue,0
+c01752,Claims,Claim Follow-up,0
+c01753,Billing,Incorrect Charge,0
+c01754,Billing,Incorrect Charge,0
+c01755,Billing,Incorrect Charge,1
+c01756,Technical Support,Connectivity Issue,0
+c01757,Billing,Incorrect Charge,1
+c01758,General Support,Other,0
+c01759,Retention,Cancellation Request,0
+c01760,Commercial,Plan Change Request,0
+c01761,Commercial,Plan Change Request,0
+c01762,Digital Channels,Payment App Issue,0
+c01763,Commercial,Portability Inquiry,0
+c01764,Claims,Claim Follow-up,0
+c01765,Commercial,Plan Change Request,0
+c01766,Billing,Incorrect Charge,0
+c01767,General Support,Other,0
+c01768,Retention,Cancellation Request,1
+c01769,Technical Support,Connectivity Issue,1
+c01770,Digital Channels,Payment App Issue,0
+c01771,Digital Channels,Payment App Issue,0
+c01772,Technical Support,Connectivity Issue,0
+c01773,Billing,Incorrect Charge,0
+c01774,Technical Support,Connectivity Issue,1
+c01775,Technical Support,Connectivity Issue,0
+c01776,Commercial,Plan Change Request,0
+c01777,Billing,Incorrect Charge,1
+c01778,Claims,Claim Follow-up,0
+c01779,Commercial,Portability Inquiry,1
+c01780,Commercial,Plan Change Request,1
+c01781,Technical Support,Connectivity Issue,0
+c01782,Retention,Cancellation Request,0
+c01783,General Support,Other,0
+c01784,Commercial,Plan Change Request,0
+c01785,Technical Support,Connectivity Issue,0
+c01786,Technical Support,Connectivity Issue,0
+c01787,Commercial,Plan Change Request,0
+c01788,Billing,Incorrect Charge,0
+c01789,Technical Support,Connectivity Issue,0
+c01790,Digital Channels,Payment App Issue,0
+c01791,Claims,Claim Follow-up,0
+c01792,Commercial,Portability Inquiry,0
+c01793,Retention,Cancellation Request,0
+c01794,Technical Support,Connectivity Issue,1
+c01795,Commercial,Plan Change Request,0
+c01796,Billing,Incorrect Charge,1
+c01797,Claims,Claim Follow-up,0
+c01798,Technical Support,Connectivity Issue,0
+c01799,Claims,Claim Follow-up,1
+c01800,Technical Support,Connectivity Issue,0
+c01801,Commercial,Plan Change Request,0
+c01802,Billing,Incorrect Charge,0
+c01803,Technical Support,Connectivity Issue,0
+c01804,Technical Support,Connectivity Issue,0
+c01805,Retention,Cancellation Request,0
+c01806,Billing,Incorrect Charge,1
+c01807,Commercial,Portability Inquiry,0
+c01808,Digital Channels,Payment App Issue,0
+c01809,General Support,Other,0
+c01810,Technical Support,Connectivity Issue,0
+c01811,Commercial,Plan Change Request,0
+c01812,Technical Support,Connectivity Issue,0
+c01813,Claims,Claim Follow-up,1
+c01814,Technical Support,Connectivity Issue,0
+c01815,Technical Support,Connectivity Issue,0
+c01816,Commercial,Plan Change Request,0
+c01817,Digital Channels,Payment App Issue,0
+c01818,Commercial,Portability Inquiry,0
+c01819,Commercial,Portability Inquiry,0
+c01820,Claims,Claim Follow-up,0
+c01821,Digital Channels,Payment App Issue,0
+c01822,Retention,Cancellation Request,0
+c01823,Digital Channels,Payment App Issue,0
+c01824,Billing,Incorrect Charge,1
+c01825,Commercial,Plan Change Request,0
+c01826,Technical Support,Connectivity Issue,0
+c01827,Claims,Claim Follow-up,1
+c01828,Billing,Incorrect Charge,0
+c01829,Billing,Incorrect Charge,1
+c01830,Technical Support,Connectivity Issue,0
+c01831,Technical Support,Connectivity Issue,0
+c01832,Billing,Incorrect Charge,0
+c01833,Commercial,Plan Change Request,0
+c01834,Technical Support,Connectivity Issue,0
+c01835,Technical Support,Connectivity Issue,1
+c01836,General Support,Other,0
+c01837,Commercial,Plan Change Request,0
+c01838,Digital Channels,Payment App Issue,1
+c01839,Commercial,Portability Inquiry,1
+c01840,Billing,Incorrect Charge,0
+c01841,Commercial,Plan Change Request,1
+c01842,Commercial,Plan Change Request,0
+c01843,Retention,Cancellation Request,0
+c01844,Billing,Incorrect Charge,0
+c01845,Digital Channels,Payment App Issue,0
+c01846,Commercial,Portability Inquiry,0
+c01847,Retention,Cancellation Request,0
+c01848,Technical Support,Connectivity Issue,0
+c01849,Retention,Cancellation Request,0
+c01850,Billing,Incorrect Charge,0
+c01851,Billing,Incorrect Charge,0
+c01852,Commercial,Plan Change Request,0
+c01853,Commercial,Plan Change Request,1
+c01854,Technical Support,Connectivity Issue,0
+c01855,Commercial,Plan Change Request,0
+c01856,Commercial,Plan Change Request,0
+c01857,Technical Support,Connectivity Issue,0
+c01858,Billing,Incorrect Charge,0
+c01859,Retention,Cancellation Request,0
+c01860,Commercial,Plan Change Request,0
+c01861,Technical Support,Connectivity Issue,0
+c01862,General Support,Other,0
+c01863,Digital Channels,Payment App Issue,1
+c01864,Technical Support,Connectivity Issue,1
+c01865,Claims,Claim Follow-up,1
+c01866,Technical Support,Connectivity Issue,0
+c01867,Technical Support,Connectivity Issue,0
+c01868,General Support,Other,0
+c01869,General Support,Other,1
+c01870,Technical Support,Connectivity Issue,0
+c01871,Claims,Claim Follow-up,1
+c01872,Commercial,Plan Change Request,1
+c01873,Technical Support,Connectivity Issue,0
+c01874,Billing,Incorrect Charge,0
+c01875,Billing,Incorrect Charge,0
+c01876,Technical Support,Connectivity Issue,0
+c01877,Retention,Cancellation Request,0
+c01878,Retention,Cancellation Request,1
+c01879,Commercial,Portability Inquiry,0
+c01880,Billing,Incorrect Charge,0
+c01881,Retention,Cancellation Request,0
+c01882,Claims,Claim Follow-up,1
+c01883,Claims,Claim Follow-up,0
+c01884,Digital Channels,Payment App Issue,0
+c01885,Billing,Incorrect Charge,1
+c01886,Billing,Incorrect Charge,0
+c01887,General Support,Other,0
+c01888,Claims,Claim Follow-up,0
+c01889,Technical Support,Connectivity Issue,0
+c01890,Claims,Claim Follow-up,1
+c01891,Commercial,Plan Change Request,0
+c01892,General Support,Other,0
+c01893,Technical Support,Connectivity Issue,0
+c01894,Commercial,Plan Change Request,0
+c01895,Claims,Claim Follow-up,1
+c01896,Technical Support,Connectivity Issue,1
+c01897,Claims,Claim Follow-up,0
+c01898,General Support,Other,0
+c01899,General Support,Other,0
+c01900,Billing,Incorrect Charge,0
+c01901,Technical Support,Connectivity Issue,1
+c01902,Retention,Cancellation Request,0
+c01903,Commercial,Portability Inquiry,0
+c01904,Digital Channels,Payment App Issue,0
+c01905,Technical Support,Connectivity Issue,1
+c01906,General Support,Other,0
+c01907,Technical Support,Connectivity Issue,0
+c01908,Billing,Incorrect Charge,0
+c01909,Technical Support,Connectivity Issue,1
+c01910,Commercial,Plan Change Request,1
+c01911,Billing,Incorrect Charge,1
+c01912,Digital Channels,Payment App Issue,1
+c01913,Technical Support,Connectivity Issue,0
+c01914,Billing,Incorrect Charge,1
+c01915,Billing,Incorrect Charge,0
+c01916,Technical Support,Connectivity Issue,0
+c01917,Technical Support,Connectivity Issue,0
+c01918,Billing,Incorrect Charge,0
+c01919,Claims,Claim Follow-up,0
+c01920,Technical Support,Connectivity Issue,1
+c01921,Technical Support,Connectivity Issue,0
+c01922,Billing,Incorrect Charge,0
+c01923,Commercial,Plan Change Request,0
+c01924,Retention,Cancellation Request,0
+c01925,General Support,Other,0
+c01926,Commercial,Plan Change Request,0
+c01927,Billing,Incorrect Charge,0
+c01928,Billing,Incorrect Charge,0
+c01929,Retention,Cancellation Request,0
+c01930,Commercial,Plan Change Request,1
+c01931,Billing,Incorrect Charge,1
+c01932,Technical Support,Connectivity Issue,0
+c01933,Commercial,Plan Change Request,0
+c01934,Commercial,Plan Change Request,1
+c01935,Retention,Cancellation Request,1
+c01936,Technical Support,Connectivity Issue,0
+c01937,Technical Support,Connectivity Issue,0
+c01938,Retention,Cancellation Request,1
+c01939,Commercial,Plan Change Request,0
+c01940,Technical Support,Connectivity Issue,0
+c01941,Billing,Incorrect Charge,0
+c01942,General Support,Other,0
+c01943,Billing,Incorrect Charge,0
+c01944,General Support,Other,0
+c01945,Technical Support,Connectivity Issue,0
+c01946,Technical Support,Connectivity Issue,0
+c01947,Retention,Cancellation Request,0
+c01948,Billing,Incorrect Charge,0
+c01949,Commercial,Portability Inquiry,0
+c01950,Commercial,Portability Inquiry,0
+c01951,Billing,Incorrect Charge,1
+c01952,Claims,Claim Follow-up,0
+c01953,Commercial,Plan Change Request,0
+c01954,Claims,Claim Follow-up,0
+c01955,Digital Channels,Payment App Issue,0
+c01956,Commercial,Plan Change Request,0
+c01957,Commercial,Plan Change Request,0
+c01958,Billing,Incorrect Charge,1
+c01959,Retention,Cancellation Request,1
+c01960,Digital Channels,Payment App Issue,0
+c01961,Billing,Incorrect Charge,0
+c01962,Commercial,Portability Inquiry,0
+c01963,Technical Support,Connectivity Issue,0
+c01964,Commercial,Portability Inquiry,0
+c01965,Commercial,Plan Change Request,0
+c01966,Digital Channels,Payment App Issue,0
+c01967,Digital Channels,Payment App Issue,0
+c01968,Billing,Incorrect Charge,0
+c01969,Technical Support,Connectivity Issue,0
+c01970,Technical Support,Connectivity Issue,0
+c01971,Billing,Incorrect Charge,0
+c01972,Billing,Incorrect Charge,0
+c01973,Commercial,Plan Change Request,0
+c01974,Retention,Cancellation Request,0
+c01975,Technical Support,Connectivity Issue,0
+c01976,Billing,Incorrect Charge,1
+c01977,Billing,Incorrect Charge,1
+c01978,Billing,Incorrect Charge,1
+c01979,General Support,Other,0
+c01980,Billing,Incorrect Charge,0
+c01981,Technical Support,Connectivity Issue,0
+c01982,Digital Channels,Payment App Issue,0
+c01983,General Support,Other,0
+c01984,Digital Channels,Payment App Issue,0
+c01985,Commercial,Plan Change Request,0
+c01986,Technical Support,Connectivity Issue,1
+c01987,Technical Support,Connectivity Issue,0
+c01988,Billing,Incorrect Charge,0
+c01989,Retention,Cancellation Request,1
+c01990,Commercial,Plan Change Request,0
+c01991,Retention,Cancellation Request,0
+c01992,Billing,Incorrect Charge,1
+c01993,Commercial,Plan Change Request,0
+c01994,Technical Support,Connectivity Issue,0
+c01995,Commercial,Plan Change Request,0
+c01996,Commercial,Portability Inquiry,0
+c01997,Claims,Claim Follow-up,1
+c01998,Technical Support,Connectivity Issue,1
+c01999,Commercial,Plan Change Request,1
+c02000,Claims,Claim Follow-up,0
+c02001,Digital Channels,Payment App Issue,0
+c02002,Billing,Incorrect Charge,0
+c02003,Claims,Claim Follow-up,0
+c02004,Technical Support,Connectivity Issue,1
+c02005,Commercial,Portability Inquiry,0
+c02006,Billing,Incorrect Charge,0
+c02007,Commercial,Plan Change Request,0
+c02008,Retention,Cancellation Request,0
+c02009,Commercial,Portability Inquiry,0
+c02010,Claims,Claim Follow-up,1
+c02011,Technical Support,Connectivity Issue,0
+c02012,Technical Support,Connectivity Issue,0
+c02013,Digital Channels,Payment App Issue,0
+c02014,Claims,Claim Follow-up,1
+c02015,Digital Channels,Payment App Issue,0
+c02016,Claims,Claim Follow-up,0
+c02017,Commercial,Portability Inquiry,0
+c02018,Digital Channels,Payment App Issue,0
+c02019,Technical Support,Connectivity Issue,1
+c02020,Technical Support,Connectivity Issue,0
+c02021,Claims,Claim Follow-up,0
+c02022,Technical Support,Connectivity Issue,1
+c02023,Digital Channels,Payment App Issue,1
+c02024,Retention,Cancellation Request,0
+c02025,Claims,Claim Follow-up,0
+c02026,Commercial,Plan Change Request,0
+c02027,Technical Support,Connectivity Issue,1
+c02028,Digital Channels,Payment App Issue,1
+c02029,Technical Support,Connectivity Issue,0
+c02030,Billing,Incorrect Charge,0
+c02031,Technical Support,Connectivity Issue,0
+c02032,Technical Support,Connectivity Issue,0
+c02033,General Support,Other,1
+c02034,Digital Channels,Payment App Issue,1
+c02035,Technical Support,Connectivity Issue,1
+c02036,Technical Support,Connectivity Issue,0
+c02037,Claims,Claim Follow-up,0
+c02038,Digital Channels,Payment App Issue,0
+c02039,General Support,Other,0
+c02040,Technical Support,Connectivity Issue,0
+c02041,Billing,Incorrect Charge,0
+c02042,Billing,Incorrect Charge,1
+c02043,Technical Support,Connectivity Issue,1
+c02044,Commercial,Portability Inquiry,0
+c02045,Technical Support,Connectivity Issue,0
+c02046,Retention,Cancellation Request,0
+c02047,Digital Channels,Payment App Issue,0
+c02048,Commercial,Portability Inquiry,0
+c02049,Technical Support,Connectivity Issue,1
+c02050,General Support,Other,0
+c02051,Digital Channels,Payment App Issue,0
+c02052,Technical Support,Connectivity Issue,0
+c02053,Commercial,Portability Inquiry,0
+c02054,Digital Channels,Payment App Issue,0
+c02055,Commercial,Plan Change Request,0
+c02056,Commercial,Plan Change Request,0
+c02057,Technical Support,Connectivity Issue,0
+c02058,Claims,Claim Follow-up,0
+c02059,Retention,Cancellation Request,0
+c02060,Commercial,Portability Inquiry,0
+c02061,Technical Support,Connectivity Issue,0
+c02062,Retention,Cancellation Request,0
+c02063,Commercial,Plan Change Request,0
+c02064,Billing,Incorrect Charge,1
+c02065,Claims,Claim Follow-up,0
+c02066,Claims,Claim Follow-up,1
+c02067,Digital Channels,Payment App Issue,0
+c02068,Technical Support,Connectivity Issue,0
+c02069,Commercial,Portability Inquiry,0
+c02070,Commercial,Portability Inquiry,0
+c02071,Billing,Incorrect Charge,1
+c02072,Technical Support,Connectivity Issue,1
+c02073,Billing,Incorrect Charge,0
+c02074,Commercial,Portability Inquiry,0
+c02075,Claims,Claim Follow-up,0
+c02076,Commercial,Plan Change Request,0
+c02077,Retention,Cancellation Request,1
+c02078,Retention,Cancellation Request,0
+c02079,Technical Support,Connectivity Issue,1
+c02080,Retention,Cancellation Request,0
+c02081,Retention,Cancellation Request,1
+c02082,Billing,Incorrect Charge,1
+c02083,Billing,Incorrect Charge,1
+c02084,General Support,Other,0
+c02085,Billing,Incorrect Charge,0
+c02086,Digital Channels,Payment App Issue,1
+c02087,Claims,Claim Follow-up,0
+c02088,Technical Support,Connectivity Issue,0
+c02089,Commercial,Portability Inquiry,0
+c02090,Commercial,Plan Change Request,0
+c02091,Commercial,Plan Change Request,0
+c02092,Commercial,Portability Inquiry,0
+c02093,Digital Channels,Payment App Issue,0
+c02094,Commercial,Plan Change Request,0
+c02095,Commercial,Portability Inquiry,0
+c02096,Retention,Cancellation Request,0
+c02097,Claims,Claim Follow-up,0
+c02098,Technical Support,Connectivity Issue,0
+c02099,Commercial,Portability Inquiry,1
+c02100,General Support,Other,0
+c02101,Technical Support,Connectivity Issue,0
+c02102,Technical Support,Connectivity Issue,0
+c02103,Technical Support,Connectivity Issue,0
+c02104,Technical Support,Connectivity Issue,1
+c02105,Commercial,Portability Inquiry,1
+c02106,Technical Support,Connectivity Issue,1
+c02107,Commercial,Plan Change Request,0
+c02108,Technical Support,Connectivity Issue,0
+c02109,Technical Support,Connectivity Issue,1
+c02110,Digital Channels,Payment App Issue,0
+c02111,Technical Support,Connectivity Issue,0
+c02112,Digital Channels,Payment App Issue,0
+c02113,Billing,Incorrect Charge,1
+c02114,Commercial,Portability Inquiry,0
+c02115,Claims,Claim Follow-up,0
+c02116,Commercial,Plan Change Request,1
+c02117,Commercial,Plan Change Request,0
+c02118,Retention,Cancellation Request,0
+c02119,Claims,Claim Follow-up,0
+c02120,Billing,Incorrect Charge,0
+c02121,Technical Support,Connectivity Issue,0
+c02122,Technical Support,Connectivity Issue,0
+c02123,Technical Support,Connectivity Issue,0
+c02124,Commercial,Portability Inquiry,1
+c02125,Billing,Incorrect Charge,0
+c02126,Commercial,Plan Change Request,0
+c02127,Digital Channels,Payment App Issue,0
+c02128,Commercial,Portability Inquiry,0
+c02129,Retention,Cancellation Request,0
+c02130,Billing,Incorrect Charge,1
+c02131,Billing,Incorrect Charge,1
+c02132,Commercial,Plan Change Request,0
+c02133,Commercial,Portability Inquiry,0
+c02134,Claims,Claim Follow-up,1
+c02135,Claims,Claim Follow-up,0
+c02136,Commercial,Plan Change Request,0
+c02137,Digital Channels,Payment App Issue,0
+c02138,Commercial,Portability Inquiry,1
+c02139,Commercial,Plan Change Request,0
+c02140,Billing,Incorrect Charge,0
+c02141,Billing,Incorrect Charge,1
+c02142,Digital Channels,Payment App Issue,0
+c02143,Billing,Incorrect Charge,0
+c02144,Technical Support,Connectivity Issue,0
+c02145,Billing,Incorrect Charge,0
+c02146,Technical Support,Connectivity Issue,0
+c02147,Claims,Claim Follow-up,1
+c02148,Billing,Incorrect Charge,0
+c02149,Claims,Claim Follow-up,1
+c02150,Technical Support,Connectivity Issue,1
+c02151,Claims,Claim Follow-up,0
+c02152,Claims,Claim Follow-up,0
+c02153,Commercial,Plan Change Request,0
+c02154,General Support,Other,0
+c02155,Technical Support,Connectivity Issue,0
+c02156,Technical Support,Connectivity Issue,0
+c02157,Commercial,Plan Change Request,0
+c02158,Claims,Claim Follow-up,0
+c02159,Digital Channels,Payment App Issue,0
+c02160,Commercial,Plan Change Request,0
+c02161,Retention,Cancellation Request,1
+c02162,Technical Support,Connectivity Issue,0
+c02163,Technical Support,Connectivity Issue,0
+c02164,Billing,Incorrect Charge,0
+c02165,Billing,Incorrect Charge,0
+c02166,Technical Support,Connectivity Issue,1
+c02167,Commercial,Portability Inquiry,0
+c02168,Digital Channels,Payment App Issue,0
+c02169,General Support,Other,0
+c02170,Commercial,Plan Change Request,0
+c02171,Billing,Incorrect Charge,1
+c02172,Billing,Incorrect Charge,1
+c02173,Commercial,Portability Inquiry,0
+c02174,Commercial,Plan Change Request,0
+c02175,Technical Support,Connectivity Issue,0
+c02176,Digital Channels,Payment App Issue,0
+c02177,General Support,Other,0
+c02178,Technical Support,Connectivity Issue,0
+c02179,Commercial,Portability Inquiry,0
+c02180,Billing,Incorrect Charge,0
+c02181,Billing,Incorrect Charge,0
+c02182,Claims,Claim Follow-up,1
+c02183,Technical Support,Connectivity Issue,0
+c02184,Technical Support,Connectivity Issue,0
+c02185,General Support,Other,0
+c02186,Claims,Claim Follow-up,0
+c02187,General Support,Other,0
+c02188,Commercial,Plan Change Request,0
+c02189,Commercial,Plan Change Request,0
+c02190,Technical Support,Connectivity Issue,0
+c02191,Billing,Incorrect Charge,1
+c02192,Retention,Cancellation Request,0
+c02193,Claims,Claim Follow-up,1
+c02194,Commercial,Plan Change Request,0
+c02195,General Support,Other,0
+c02196,Retention,Cancellation Request,0
+c02197,Commercial,Plan Change Request,0
+c02198,Technical Support,Connectivity Issue,0
+c02199,Digital Channels,Payment App Issue,0
+c02200,Technical Support,Connectivity Issue,1
+c02201,General Support,Other,1
+c02202,Claims,Claim Follow-up,0
+c02203,Technical Support,Connectivity Issue,0
+c02204,Technical Support,Connectivity Issue,1
+c02205,Digital Channels,Payment App Issue,0
+c02206,Billing,Incorrect Charge,0
+c02207,Retention,Cancellation Request,0
+c02208,Technical Support,Connectivity Issue,1
+c02209,General Support,Other,0
+c02210,Commercial,Portability Inquiry,0
+c02211,Technical Support,Connectivity Issue,1
+c02212,Digital Channels,Payment App Issue,0
+c02213,Commercial,Plan Change Request,0
+c02214,Technical Support,Connectivity Issue,1
+c02215,Technical Support,Connectivity Issue,0
+c02216,Technical Support,Connectivity Issue,0
+c02217,Billing,Incorrect Charge,0
+c02218,Billing,Incorrect Charge,0
+c02219,Claims,Claim Follow-up,0
+c02220,General Support,Other,0
+c02221,Commercial,Portability Inquiry,0
+c02222,Digital Channels,Payment App Issue,1
+c02223,Billing,Incorrect Charge,0
+c02224,Technical Support,Connectivity Issue,1
+c02225,Technical Support,Connectivity Issue,0
+c02226,Technical Support,Connectivity Issue,0
+c02227,Commercial,Plan Change Request,0
+c02228,Commercial,Portability Inquiry,0
+c02229,Claims,Claim Follow-up,0
+c02230,Billing,Incorrect Charge,0
+c02231,Digital Channels,Payment App Issue,0
+c02232,General Support,Other,0
+c02233,Commercial,Portability Inquiry,0
+c02234,Billing,Incorrect Charge,0
+c02235,Commercial,Plan Change Request,0
+c02236,Commercial,Portability Inquiry,0
+c02237,Technical Support,Connectivity Issue,0
+c02238,Commercial,Plan Change Request,0
+c02239,Commercial,Portability Inquiry,1
+c02240,Billing,Incorrect Charge,0
+c02241,Technical Support,Connectivity Issue,0
+c02242,Technical Support,Connectivity Issue,1
+c02243,Claims,Claim Follow-up,0
+c02244,Retention,Cancellation Request,1
+c02245,Retention,Cancellation Request,0
+c02246,Claims,Claim Follow-up,0
+c02247,Billing,Incorrect Charge,0
+c02248,Commercial,Portability Inquiry,0
+c02249,Technical Support,Connectivity Issue,0
+c02250,Technical Support,Connectivity Issue,0
+c02251,Technical Support,Connectivity Issue,0
+c02252,Commercial,Plan Change Request,0
+c02253,Retention,Cancellation Request,0
+c02254,Technical Support,Connectivity Issue,0
+c02255,Technical Support,Connectivity Issue,0
+c02256,Billing,Incorrect Charge,0
+c02257,Technical Support,Connectivity Issue,0
+c02258,Retention,Cancellation Request,0
+c02259,Technical Support,Connectivity Issue,0
+c02260,Commercial,Portability Inquiry,0
+c02261,Claims,Claim Follow-up,0
+c02262,Commercial,Plan Change Request,1
+c02263,Commercial,Portability Inquiry,0
+c02264,General Support,Other,0
+c02265,Digital Channels,Payment App Issue,0
+c02266,Retention,Cancellation Request,0
+c02267,Billing,Incorrect Charge,0
+c02268,Digital Channels,Payment App Issue,1
+c02269,Retention,Cancellation Request,1
+c02270,Commercial,Portability Inquiry,0
+c02271,Commercial,Plan Change Request,0
+c02272,General Support,Other,0
+c02273,Billing,Incorrect Charge,0
+c02274,Retention,Cancellation Request,0
+c02275,Digital Channels,Payment App Issue,0
+c02276,Technical Support,Connectivity Issue,1
+c02277,Claims,Claim Follow-up,0
+c02278,Technical Support,Connectivity Issue,1
+c02279,Technical Support,Connectivity Issue,1
+c02280,Technical Support,Connectivity Issue,0
+c02281,Commercial,Portability Inquiry,0
+c02282,Retention,Cancellation Request,0
+c02283,Technical Support,Connectivity Issue,1
+c02284,Digital Channels,Payment App Issue,0
+c02285,Billing,Incorrect Charge,0
+c02286,Commercial,Portability Inquiry,0
+c02287,Commercial,Portability Inquiry,0
+c02288,General Support,Other,0
+c02289,Digital Channels,Payment App Issue,0
+c02290,Commercial,Plan Change Request,0
+c02291,Billing,Incorrect Charge,1
+c02292,Billing,Incorrect Charge,1
+c02293,Billing,Incorrect Charge,0
+c02294,Technical Support,Connectivity Issue,1
+c02295,Digital Channels,Payment App Issue,0
+c02296,Claims,Claim Follow-up,0
+c02297,Retention,Cancellation Request,0
+c02298,General Support,Other,0
+c02299,Retention,Cancellation Request,0
+c02300,Digital Channels,Payment App Issue,1
+c02301,Commercial,Plan Change Request,0
+c02302,Technical Support,Connectivity Issue,0
+c02303,Billing,Incorrect Charge,0
+c02304,General Support,Other,0
+c02305,Technical Support,Connectivity Issue,0
+c02306,Retention,Cancellation Request,0
+c02307,Technical Support,Connectivity Issue,0
+c02308,General Support,Other,0
+c02309,Technical Support,Connectivity Issue,0
+c02310,General Support,Other,0
+c02311,Claims,Claim Follow-up,1
+c02312,Claims,Claim Follow-up,1
+c02313,Claims,Claim Follow-up,1
+c02314,Technical Support,Connectivity Issue,0
+c02315,Technical Support,Connectivity Issue,0
+c02316,Commercial,Portability Inquiry,0
+c02317,Retention,Cancellation Request,0
+c02318,Technical Support,Connectivity Issue,0
+c02319,General Support,Other,0
+c02320,Technical Support,Connectivity Issue,0
+c02321,Technical Support,Connectivity Issue,1
+c02322,Billing,Incorrect Charge,1
+c02323,Billing,Incorrect Charge,0
+c02324,Technical Support,Connectivity Issue,0
+c02325,Digital Channels,Payment App Issue,0
+c02326,Retention,Cancellation Request,0
+c02327,Commercial,Portability Inquiry,0
+c02328,Commercial,Plan Change Request,0
+c02329,Technical Support,Connectivity Issue,1
+c02330,Technical Support,Connectivity Issue,0
+c02331,Technical Support,Connectivity Issue,1
+c02332,Retention,Cancellation Request,0
+c02333,General Support,Other,0
+c02334,Commercial,Plan Change Request,0
+c02335,Billing,Incorrect Charge,1
+c02336,Digital Channels,Payment App Issue,0
+c02337,Billing,Incorrect Charge,0
+c02338,Technical Support,Connectivity Issue,0
+c02339,Retention,Cancellation Request,0
+c02340,Commercial,Portability Inquiry,0
+c02341,Billing,Incorrect Charge,0
+c02342,Claims,Claim Follow-up,0
+c02343,General Support,Other,0
+c02344,Billing,Incorrect Charge,0
+c02345,Commercial,Portability Inquiry,0
+c02346,Technical Support,Connectivity Issue,0
+c02347,Technical Support,Connectivity Issue,0
+c02348,Technical Support,Connectivity Issue,0
+c02349,Technical Support,Connectivity Issue,0
+c02350,Technical Support,Connectivity Issue,0
+c02351,Commercial,Portability Inquiry,0
+c02352,Technical Support,Connectivity Issue,1
+c02353,Billing,Incorrect Charge,0
+c02354,Technical Support,Connectivity Issue,1
+c02355,Claims,Claim Follow-up,1
+c02356,Retention,Cancellation Request,0
+c02357,Technical Support,Connectivity Issue,0
+c02358,Digital Channels,Payment App Issue,0
+c02359,Commercial,Plan Change Request,0
+c02360,Retention,Cancellation Request,0
+c02361,Technical Support,Connectivity Issue,1
+c02362,Technical Support,Connectivity Issue,0
+c02363,Technical Support,Connectivity Issue,0
+c02364,Technical Support,Connectivity Issue,1
+c02365,Commercial,Portability Inquiry,0
+c02366,Claims,Claim Follow-up,1
+c02367,Claims,Claim Follow-up,0
+c02368,Billing,Incorrect Charge,1
+c02369,Billing,Incorrect Charge,0
+c02370,Technical Support,Connectivity Issue,1
+c02371,Technical Support,Connectivity Issue,1
+c02372,Billing,Incorrect Charge,0
+c02373,Commercial,Portability Inquiry,0
+c02374,Claims,Claim Follow-up,0
+c02375,Commercial,Portability Inquiry,0
+c02376,Commercial,Portability Inquiry,0
+c02377,Billing,Incorrect Charge,1
+c02378,General Support,Other,0
+c02379,Billing,Incorrect Charge,0
+c02380,Retention,Cancellation Request,1
+c02381,Billing,Incorrect Charge,0
+c02382,Digital Channels,Payment App Issue,0
+c02383,Commercial,Portability Inquiry,0
+c02384,Technical Support,Connectivity Issue,1
+c02385,Digital Channels,Payment App Issue,0
+c02386,Commercial,Plan Change Request,0
+c02387,Claims,Claim Follow-up,1
+c02388,Technical Support,Connectivity Issue,0
+c02389,Billing,Incorrect Charge,0
+c02390,Technical Support,Connectivity Issue,0
+c02391,Technical Support,Connectivity Issue,1
+c02392,Commercial,Portability Inquiry,0
+c02393,Digital Channels,Payment App Issue,0
+c02394,Retention,Cancellation Request,0
+c02395,Digital Channels,Payment App Issue,0
+c02396,Digital Channels,Payment App Issue,1
+c02397,Digital Channels,Payment App Issue,0
+c02398,Retention,Cancellation Request,1
+c02399,General Support,Other,0
+c02400,Commercial,Plan Change Request,1
+c02401,Technical Support,Connectivity Issue,1
+c02402,Claims,Claim Follow-up,0
+c02403,Technical Support,Connectivity Issue,0
+c02404,Technical Support,Connectivity Issue,1
+c02405,Billing,Incorrect Charge,0
+c02406,Retention,Cancellation Request,0
+c02407,Digital Channels,Payment App Issue,0
+c02408,Commercial,Plan Change Request,0
+c02409,Retention,Cancellation Request,0
+c02410,Billing,Incorrect Charge,1
+c02411,Technical Support,Connectivity Issue,0
+c02412,Technical Support,Connectivity Issue,0
+c02413,Digital Channels,Payment App Issue,0
+c02414,Billing,Incorrect Charge,0
+c02415,Billing,Incorrect Charge,1
+c02416,Billing,Incorrect Charge,1
+c02417,Commercial,Portability Inquiry,1
+c02418,Technical Support,Connectivity Issue,1
+c02419,Billing,Incorrect Charge,0
+c02420,Billing,Incorrect Charge,0
+c02421,Retention,Cancellation Request,0
+c02422,Commercial,Plan Change Request,0
+c02423,Billing,Incorrect Charge,0
+c02424,Retention,Cancellation Request,0
+c02425,Digital Channels,Payment App Issue,1
+c02426,Retention,Cancellation Request,1
+c02427,Technical Support,Connectivity Issue,0
+c02428,General Support,Other,0
+c02429,Technical Support,Connectivity Issue,0
+c02430,Billing,Incorrect Charge,0
+c02431,Claims,Claim Follow-up,0
+c02432,Commercial,Portability Inquiry,0
+c02433,Claims,Claim Follow-up,1
+c02434,Retention,Cancellation Request,0
+c02435,Technical Support,Connectivity Issue,0
+c02436,General Support,Other,0
+c02437,Claims,Claim Follow-up,1
+c02438,Technical Support,Connectivity Issue,1
+c02439,Billing,Incorrect Charge,0
+c02440,Technical Support,Connectivity Issue,1
+c02441,Billing,Incorrect Charge,0
+c02442,Technical Support,Connectivity Issue,0
+c02443,Claims,Claim Follow-up,0
+c02444,Technical Support,Connectivity Issue,0
+c02445,Retention,Cancellation Request,1
+c02446,Retention,Cancellation Request,0
+c02447,Billing,Incorrect Charge,1
+c02448,Billing,Incorrect Charge,1
+c02449,Digital Channels,Payment App Issue,1
+c02450,Retention,Cancellation Request,0
+c02451,Claims,Claim Follow-up,1
+c02452,Digital Channels,Payment App Issue,0
+c02453,Claims,Claim Follow-up,0
+c02454,Claims,Claim Follow-up,1
+c02455,General Support,Other,1
+c02456,Technical Support,Connectivity Issue,0
+c02457,Digital Channels,Payment App Issue,0
+c02458,Commercial,Portability Inquiry,0
+c02459,Digital Channels,Payment App Issue,0
+c02460,Billing,Incorrect Charge,1
+c02461,Retention,Cancellation Request,0
+c02462,Billing,Incorrect Charge,0
+c02463,Billing,Incorrect Charge,0
+c02464,Commercial,Plan Change Request,0
+c02465,Billing,Incorrect Charge,0
+c02466,Digital Channels,Payment App Issue,0
+c02467,Commercial,Plan Change Request,0
+c02468,Commercial,Plan Change Request,0
+c02469,Billing,Incorrect Charge,0
+c02470,Technical Support,Connectivity Issue,0
+c02471,General Support,Other,0
+c02472,Technical Support,Connectivity Issue,0
+c02473,Digital Channels,Payment App Issue,0
+c02474,Retention,Cancellation Request,0
+c02475,Commercial,Portability Inquiry,0
+c02476,Claims,Claim Follow-up,0
+c02477,Technical Support,Connectivity Issue,1
+c02478,Commercial,Plan Change Request,0
+c02479,Retention,Cancellation Request,0
+c02480,Technical Support,Connectivity Issue,0
+c02481,Retention,Cancellation Request,0
+c02482,Billing,Incorrect Charge,1
+c02483,Claims,Claim Follow-up,1
+c02484,Commercial,Portability Inquiry,0
+c02485,Billing,Incorrect Charge,0
+c02486,Technical Support,Connectivity Issue,1
+c02487,Claims,Claim Follow-up,0
+c02488,Retention,Cancellation Request,0
+c02489,Billing,Incorrect Charge,1
+c02490,Billing,Incorrect Charge,1
+c02491,Retention,Cancellation Request,0
+c02492,Billing,Incorrect Charge,0
+c02493,Billing,Incorrect Charge,0
+c02494,Commercial,Plan Change Request,0
+c02495,Technical Support,Connectivity Issue,0
+c02496,Commercial,Portability Inquiry,0
+c02497,Commercial,Plan Change Request,0
+c02498,Billing,Incorrect Charge,1
+c02499,Technical Support,Connectivity Issue,1
+c02500,Commercial,Plan Change Request,1
+c02501,Technical Support,Connectivity Issue,0
+c02502,Technical Support,Connectivity Issue,0
+c02503,Digital Channels,Payment App Issue,0
+c02504,Retention,Cancellation Request,0
+c02505,Technical Support,Connectivity Issue,0
+c02506,Billing,Incorrect Charge,1
+c02507,General Support,Other,0
+c02508,Technical Support,Connectivity Issue,0
+c02509,Commercial,Portability Inquiry,0
+c02510,Claims,Claim Follow-up,0
+c02511,Technical Support,Connectivity Issue,0
+c02512,Technical Support,Connectivity Issue,0
+c02513,Technical Support,Connectivity Issue,0
+c02514,Technical Support,Connectivity Issue,1
+c02515,Billing,Incorrect Charge,0
+c02516,Billing,Incorrect Charge,1
+c02517,Billing,Incorrect Charge,0
+c02518,Billing,Incorrect Charge,0
+c02519,Commercial,Portability Inquiry,1
+c02520,Billing,Incorrect Charge,0
+c02521,Technical Support,Connectivity Issue,1
+c02522,Claims,Claim Follow-up,0
+c02523,Technical Support,Connectivity Issue,0
+c02524,Retention,Cancellation Request,1
+c02525,Billing,Incorrect Charge,0
+c02526,Claims,Claim Follow-up,0
+c02527,General Support,Other,1
+c02528,General Support,Other,0
+c02529,Digital Channels,Payment App Issue,1
+c02530,Technical Support,Connectivity Issue,0
+c02531,Technical Support,Connectivity Issue,0
+c02532,Billing,Incorrect Charge,0
+c02533,Billing,Incorrect Charge,0
+c02534,Retention,Cancellation Request,0
+c02535,Billing,Incorrect Charge,1
+c02536,Billing,Incorrect Charge,0
+c02537,Retention,Cancellation Request,0
+c02538,Digital Channels,Payment App Issue,0
+c02539,Retention,Cancellation Request,0
+c02540,Technical Support,Connectivity Issue,0
+c02541,Technical Support,Connectivity Issue,0
+c02542,Retention,Cancellation Request,0
+c02543,Technical Support,Connectivity Issue,0
+c02544,Digital Channels,Payment App Issue,1
+c02545,Commercial,Portability Inquiry,1
+c02546,Billing,Incorrect Charge,0
+c02547,Billing,Incorrect Charge,0
+c02548,Commercial,Portability Inquiry,0
+c02549,Technical Support,Connectivity Issue,1
+c02550,Claims,Claim Follow-up,1
+c02551,Billing,Incorrect Charge,1
+c02552,General Support,Other,1
+c02553,Commercial,Portability Inquiry,0
+c02554,Billing,Incorrect Charge,1
+c02555,Technical Support,Connectivity Issue,0
+c02556,Claims,Claim Follow-up,0
+c02557,Billing,Incorrect Charge,0
+c02558,Commercial,Plan Change Request,0
+c02559,Retention,Cancellation Request,0
+c02560,Billing,Incorrect Charge,0
+c02561,Retention,Cancellation Request,1
+c02562,Billing,Incorrect Charge,0
+c02563,Claims,Claim Follow-up,0
+c02564,Digital Channels,Payment App Issue,0
+c02565,Technical Support,Connectivity Issue,0
+c02566,Technical Support,Connectivity Issue,0
+c02567,Digital Channels,Payment App Issue,0
+c02568,Digital Channels,Payment App Issue,0
+c02569,Billing,Incorrect Charge,1
+c02570,Digital Channels,Payment App Issue,1
+c02571,Billing,Incorrect Charge,0
+c02572,Billing,Incorrect Charge,0
+c02573,Billing,Incorrect Charge,1
+c02574,Billing,Incorrect Charge,0
+c02575,Commercial,Plan Change Request,0
+c02576,Technical Support,Connectivity Issue,0
+c02577,Digital Channels,Payment App Issue,0
+c02578,Billing,Incorrect Charge,0
+c02579,Technical Support,Connectivity Issue,0
+c02580,General Support,Other,0
+c02581,Billing,Incorrect Charge,0
+c02582,Technical Support,Connectivity Issue,0
+c02583,Billing,Incorrect Charge,0
+c02584,General Support,Other,0
+c02585,Billing,Incorrect Charge,0
+c02586,Digital Channels,Payment App Issue,0
+c02587,Billing,Incorrect Charge,0
+c02588,General Support,Other,0
+c02589,General Support,Other,1
+c02590,Billing,Incorrect Charge,0
+c02591,Retention,Cancellation Request,0
+c02592,Billing,Incorrect Charge,1
+c02593,Digital Channels,Payment App Issue,1
+c02594,Commercial,Plan Change Request,0
+c02595,Retention,Cancellation Request,1
+c02596,Technical Support,Connectivity Issue,1
+c02597,Digital Channels,Payment App Issue,1
+c02598,Billing,Incorrect Charge,0
+c02599,Billing,Incorrect Charge,0
+c02600,Technical Support,Connectivity Issue,0
+c02601,Commercial,Plan Change Request,0
+c02602,Commercial,Plan Change Request,0
+c02603,Retention,Cancellation Request,0
+c02604,Retention,Cancellation Request,0
+c02605,Commercial,Portability Inquiry,0
+c02606,Billing,Incorrect Charge,0
+c02607,Retention,Cancellation Request,0
+c02608,Billing,Incorrect Charge,1
+c02609,Billing,Incorrect Charge,0
+c02610,Technical Support,Connectivity Issue,0
+c02611,Billing,Incorrect Charge,0
+c02612,Digital Channels,Payment App Issue,0
+c02613,Commercial,Portability Inquiry,0
+c02614,Retention,Cancellation Request,0
+c02615,Billing,Incorrect Charge,0
+c02616,Technical Support,Connectivity Issue,0
+c02617,Billing,Incorrect Charge,1
+c02618,Technical Support,Connectivity Issue,0
+c02619,Commercial,Portability Inquiry,0
+c02620,Billing,Incorrect Charge,0
+c02621,Billing,Incorrect Charge,0
+c02622,Claims,Claim Follow-up,0
+c02623,Billing,Incorrect Charge,0
+c02624,Retention,Cancellation Request,0
+c02625,Commercial,Portability Inquiry,0
+c02626,General Support,Other,0
+c02627,Billing,Incorrect Charge,1
+c02628,Billing,Incorrect Charge,0
+c02629,Technical Support,Connectivity Issue,0
+c02630,Commercial,Portability Inquiry,0
+c02631,Billing,Incorrect Charge,0
+c02632,Commercial,Plan Change Request,0
+c02633,Claims,Claim Follow-up,0
+c02634,Technical Support,Connectivity Issue,0
+c02635,Billing,Incorrect Charge,1
+c02636,Retention,Cancellation Request,0
+c02637,Billing,Incorrect Charge,1
+c02638,Digital Channels,Payment App Issue,0
+c02639,Commercial,Portability Inquiry,0
+c02640,Technical Support,Connectivity Issue,0
+c02641,Billing,Incorrect Charge,0
+c02642,Technical Support,Connectivity Issue,1
+c02643,Commercial,Plan Change Request,0
+c02644,Commercial,Plan Change Request,0
+c02645,Commercial,Plan Change Request,0
+c02646,Billing,Incorrect Charge,0
+c02647,Commercial,Portability Inquiry,0
+c02648,Commercial,Plan Change Request,0
+c02649,Commercial,Portability Inquiry,0
+c02650,Billing,Incorrect Charge,1
+c02651,Digital Channels,Payment App Issue,0
+c02652,Claims,Claim Follow-up,0
+c02653,Technical Support,Connectivity Issue,0
+c02654,Digital Channels,Payment App Issue,0
+c02655,Technical Support,Connectivity Issue,0
+c02656,Digital Channels,Payment App Issue,0
+c02657,Technical Support,Connectivity Issue,0
+c02658,Commercial,Portability Inquiry,0
+c02659,Commercial,Plan Change Request,1
+c02660,Technical Support,Connectivity Issue,0
+c02661,Commercial,Plan Change Request,0
+c02662,Billing,Incorrect Charge,0
+c02663,Digital Channels,Payment App Issue,1
+c02664,Technical Support,Connectivity Issue,1
+c02665,Digital Channels,Payment App Issue,1
+c02666,Billing,Incorrect Charge,0
+c02667,Retention,Cancellation Request,0
+c02668,Claims,Claim Follow-up,0
+c02669,Technical Support,Connectivity Issue,0
+c02670,Claims,Claim Follow-up,0
+c02671,Billing,Incorrect Charge,0
+c02672,Digital Channels,Payment App Issue,0
+c02673,Digital Channels,Payment App Issue,0
+c02674,Commercial,Plan Change Request,0
+c02675,Commercial,Portability Inquiry,0
+c02676,Digital Channels,Payment App Issue,0
+c02677,Retention,Cancellation Request,0
+c02678,General Support,Other,0
+c02679,Technical Support,Connectivity Issue,1
+c02680,Commercial,Portability Inquiry,0
+c02681,Billing,Incorrect Charge,0
+c02682,Technical Support,Connectivity Issue,0
+c02683,Retention,Cancellation Request,0
+c02684,Claims,Claim Follow-up,0
+c02685,Billing,Incorrect Charge,1
+c02686,Technical Support,Connectivity Issue,0
+c02687,Technical Support,Connectivity Issue,0
+c02688,General Support,Other,0
+c02689,Commercial,Plan Change Request,0
+c02690,Commercial,Portability Inquiry,0
+c02691,Billing,Incorrect Charge,0
+c02692,General Support,Other,0
+c02693,Technical Support,Connectivity Issue,1
+c02694,Billing,Incorrect Charge,1
+c02695,Commercial,Plan Change Request,0
+c02696,Technical Support,Connectivity Issue,1
+c02697,Technical Support,Connectivity Issue,0
+c02698,Retention,Cancellation Request,1
+c02699,Digital Channels,Payment App Issue,1
+c02700,Billing,Incorrect Charge,1
+c02701,Technical Support,Connectivity Issue,0
+c02702,Retention,Cancellation Request,0
+c02703,Technical Support,Connectivity Issue,1
+c02704,Billing,Incorrect Charge,1
+c02705,Technical Support,Connectivity Issue,1
+c02706,Retention,Cancellation Request,0
+c02707,Technical Support,Connectivity Issue,1
+c02708,Technical Support,Connectivity Issue,1
+c02709,Technical Support,Connectivity Issue,0
+c02710,Commercial,Portability Inquiry,0
+c02711,Retention,Cancellation Request,0
+c02712,Technical Support,Connectivity Issue,0
+c02713,Technical Support,Connectivity Issue,0
+c02714,General Support,Other,0
+c02715,Technical Support,Connectivity Issue,0
+c02716,General Support,Other,0
+c02717,Billing,Incorrect Charge,0
+c02718,Commercial,Portability Inquiry,0
+c02719,Retention,Cancellation Request,0
+c02720,Billing,Incorrect Charge,1
+c02721,Technical Support,Connectivity Issue,0
+c02722,Technical Support,Connectivity Issue,1
+c02723,Billing,Incorrect Charge,0
+c02724,Technical Support,Connectivity Issue,0
+c02725,Technical Support,Connectivity Issue,0
+c02726,Digital Channels,Payment App Issue,0
+c02727,General Support,Other,1
+c02728,Digital Channels,Payment App Issue,0
+c02729,General Support,Other,0
+c02730,Claims,Claim Follow-up,1
+c02731,Commercial,Plan Change Request,0
+c02732,Technical Support,Connectivity Issue,1
+c02733,Billing,Incorrect Charge,0
+c02734,Commercial,Portability Inquiry,0
+c02735,Billing,Incorrect Charge,1
+c02736,Commercial,Plan Change Request,0
+c02737,Technical Support,Connectivity Issue,0
+c02738,Technical Support,Connectivity Issue,1
+c02739,Technical Support,Connectivity Issue,0
+c02740,Technical Support,Connectivity Issue,1
+c02741,Billing,Incorrect Charge,0
+c02742,Commercial,Plan Change Request,0
+c02743,Billing,Incorrect Charge,0
+c02744,Technical Support,Connectivity Issue,0
+c02745,Digital Channels,Payment App Issue,0
+c02746,Retention,Cancellation Request,0
+c02747,Retention,Cancellation Request,0
+c02748,Retention,Cancellation Request,0
+c02749,General Support,Other,0
+c02750,Digital Channels,Payment App Issue,0
+c02751,Claims,Claim Follow-up,0
+c02752,Technical Support,Connectivity Issue,1
+c02753,Technical Support,Connectivity Issue,0
+c02754,Commercial,Portability Inquiry,1
+c02755,Technical Support,Connectivity Issue,0
+c02756,Commercial,Plan Change Request,0
+c02757,Technical Support,Connectivity Issue,1
+c02758,Commercial,Portability Inquiry,0
+c02759,Commercial,Plan Change Request,0
+c02760,Claims,Claim Follow-up,0
+c02761,Billing,Incorrect Charge,0
+c02762,Commercial,Plan Change Request,1
+c02763,Billing,Incorrect Charge,0
+c02764,Retention,Cancellation Request,0
+c02765,Billing,Incorrect Charge,0
+c02766,Claims,Claim Follow-up,0
+c02767,Technical Support,Connectivity Issue,1
+c02768,Billing,Incorrect Charge,0
+c02769,Technical Support,Connectivity Issue,0
+c02770,Retention,Cancellation Request,0
+c02771,Technical Support,Connectivity Issue,0
+c02772,Technical Support,Connectivity Issue,1
+c02773,Technical Support,Connectivity Issue,0
+c02774,Commercial,Portability Inquiry,0
+c02775,Technical Support,Connectivity Issue,1
+c02776,Technical Support,Connectivity Issue,0
+c02777,Commercial,Plan Change Request,0
+c02778,Digital Channels,Payment App Issue,0
+c02779,Commercial,Portability Inquiry,0
+c02780,Billing,Incorrect Charge,0
+c02781,Commercial,Plan Change Request,0
+c02782,Technical Support,Connectivity Issue,1
+c02783,Billing,Incorrect Charge,0
+c02784,General Support,Other,0
+c02785,Retention,Cancellation Request,0
+c02786,Billing,Incorrect Charge,0
+c02787,Technical Support,Connectivity Issue,1
+c02788,Billing,Incorrect Charge,0
+c02789,Technical Support,Connectivity Issue,1
+c02790,Technical Support,Connectivity Issue,1
+c02791,Technical Support,Connectivity Issue,1
+c02792,General Support,Other,0
+c02793,Billing,Incorrect Charge,0
+c02794,Digital Channels,Payment App Issue,1
+c02795,Retention,Cancellation Request,0
+c02796,Billing,Incorrect Charge,1
+c02797,Claims,Claim Follow-up,1
+c02798,Retention,Cancellation Request,1
+c02799,Claims,Claim Follow-up,0
+c02800,Retention,Cancellation Request,0
+c02801,Digital Channels,Payment App Issue,0
+c02802,Claims,Claim Follow-up,1
+c02803,Claims,Claim Follow-up,0
+c02804,General Support,Other,0
+c02805,Billing,Incorrect Charge,0
+c02806,Technical Support,Connectivity Issue,0
+c02807,Billing,Incorrect Charge,0
+c02808,Claims,Claim Follow-up,0
+c02809,Digital Channels,Payment App Issue,0
+c02810,Commercial,Plan Change Request,0
+c02811,Billing,Incorrect Charge,0
+c02812,Claims,Claim Follow-up,0
+c02813,Commercial,Portability Inquiry,0
+c02814,Billing,Incorrect Charge,0
+c02815,Billing,Incorrect Charge,0
+c02816,Commercial,Plan Change Request,0
+c02817,Technical Support,Connectivity Issue,0
+c02818,General Support,Other,0
+c02819,Billing,Incorrect Charge,0
+c02820,Billing,Incorrect Charge,0
+c02821,Technical Support,Connectivity Issue,1
+c02822,Technical Support,Connectivity Issue,0
+c02823,Retention,Cancellation Request,0
+c02824,Claims,Claim Follow-up,1
+c02825,Technical Support,Connectivity Issue,0
+c02826,General Support,Other,0
+c02827,Technical Support,Connectivity Issue,0
+c02828,Billing,Incorrect Charge,0
+c02829,Commercial,Plan Change Request,0
+c02830,Commercial,Plan Change Request,0
+c02831,Digital Channels,Payment App Issue,0
+c02832,Technical Support,Connectivity Issue,0
+c02833,Billing,Incorrect Charge,0
+c02834,Commercial,Portability Inquiry,0
+c02835,Commercial,Plan Change Request,0
+c02836,Technical Support,Connectivity Issue,0
+c02837,General Support,Other,0
+c02838,Retention,Cancellation Request,1
+c02839,Technical Support,Connectivity Issue,0
+c02840,Commercial,Portability Inquiry,0
+c02841,Commercial,Plan Change Request,0
+c02842,Commercial,Plan Change Request,0
+c02843,Digital Channels,Payment App Issue,1
+c02844,Claims,Claim Follow-up,0
+c02845,General Support,Other,0
+c02846,Technical Support,Connectivity Issue,0
+c02847,Billing,Incorrect Charge,0
+c02848,Digital Channels,Payment App Issue,1
+c02849,General Support,Other,0
+c02850,Billing,Incorrect Charge,0
+c02851,Commercial,Plan Change Request,0
+c02852,Technical Support,Connectivity Issue,1
+c02853,Billing,Incorrect Charge,0
+c02854,Commercial,Portability Inquiry,0
+c02855,Billing,Incorrect Charge,1
+c02856,General Support,Other,0
+c02857,Retention,Cancellation Request,0
+c02858,General Support,Other,0
+c02859,Digital Channels,Payment App Issue,0
+c02860,General Support,Other,0
+c02861,Commercial,Plan Change Request,0
+c02862,Billing,Incorrect Charge,0
+c02863,Technical Support,Connectivity Issue,0
+c02864,Technical Support,Connectivity Issue,1
+c02865,Technical Support,Connectivity Issue,1
+c02866,Billing,Incorrect Charge,1
+c02867,Commercial,Plan Change Request,0
+c02868,Technical Support,Connectivity Issue,1
+c02869,Retention,Cancellation Request,0
+c02870,Claims,Claim Follow-up,0
+c02871,General Support,Other,1
+c02872,Billing,Incorrect Charge,0
+c02873,Digital Channels,Payment App Issue,0
+c02874,Technical Support,Connectivity Issue,0
+c02875,Commercial,Plan Change Request,0
+c02876,Technical Support,Connectivity Issue,0
+c02877,Retention,Cancellation Request,0
+c02878,Billing,Incorrect Charge,0
+c02879,Retention,Cancellation Request,0
+c02880,Technical Support,Connectivity Issue,0
+c02881,Technical Support,Connectivity Issue,0
+c02882,Technical Support,Connectivity Issue,0
+c02883,Billing,Incorrect Charge,0
+c02884,General Support,Other,0
+c02885,Retention,Cancellation Request,0
+c02886,Technical Support,Connectivity Issue,0
+c02887,Billing,Incorrect Charge,0
+c02888,Billing,Incorrect Charge,1
+c02889,Digital Channels,Payment App Issue,0
+c02890,Digital Channels,Payment App Issue,1
+c02891,Technical Support,Connectivity Issue,1
+c02892,Technical Support,Connectivity Issue,0
+c02893,Commercial,Plan Change Request,0
+c02894,Commercial,Portability Inquiry,0
+c02895,Commercial,Portability Inquiry,1
+c02896,Technical Support,Connectivity Issue,1
+c02897,Commercial,Plan Change Request,0
+c02898,Retention,Cancellation Request,0
+c02899,Technical Support,Connectivity Issue,0
+c02900,Commercial,Plan Change Request,0
+c02901,Billing,Incorrect Charge,0
+c02902,Commercial,Plan Change Request,1
+c02903,Technical Support,Connectivity Issue,0
+c02904,Retention,Cancellation Request,0
+c02905,Digital Channels,Payment App Issue,1
+c02906,Technical Support,Connectivity Issue,0
+c02907,Claims,Claim Follow-up,1
+c02908,Retention,Cancellation Request,0
+c02909,Digital Channels,Payment App Issue,0
+c02910,Commercial,Portability Inquiry,0
+c02911,Billing,Incorrect Charge,0
+c02912,Claims,Claim Follow-up,1
+c02913,Commercial,Portability Inquiry,0
+c02914,Claims,Claim Follow-up,1
+c02915,Billing,Incorrect Charge,1
+c02916,Technical Support,Connectivity Issue,0
+c02917,Digital Channels,Payment App Issue,0
+c02918,Technical Support,Connectivity Issue,0
+c02919,Commercial,Plan Change Request,0
+c02920,Retention,Cancellation Request,1
+c02921,Billing,Incorrect Charge,0
+c02922,Digital Channels,Payment App Issue,1
+c02923,Billing,Incorrect Charge,1
+c02924,Commercial,Plan Change Request,0
+c02925,Claims,Claim Follow-up,0
+c02926,General Support,Other,0
+c02927,Billing,Incorrect Charge,0
+c02928,Technical Support,Connectivity Issue,1
+c02929,Technical Support,Connectivity Issue,0
+c02930,Commercial,Plan Change Request,0
+c02931,Technical Support,Connectivity Issue,0
+c02932,Technical Support,Connectivity Issue,1
+c02933,Commercial,Portability Inquiry,0
+c02934,Technical Support,Connectivity Issue,0
+c02935,Technical Support,Connectivity Issue,0
+c02936,Billing,Incorrect Charge,0
+c02937,Technical Support,Connectivity Issue,0
+c02938,Retention,Cancellation Request,0
+c02939,Technical Support,Connectivity Issue,0
+c02940,Billing,Incorrect Charge,1
+c02941,Digital Channels,Payment App Issue,1
+c02942,Digital Channels,Payment App Issue,0
+c02943,Retention,Cancellation Request,0
+c02944,Claims,Claim Follow-up,1
+c02945,Digital Channels,Payment App Issue,0
+c02946,Digital Channels,Payment App Issue,1
+c02947,Technical Support,Connectivity Issue,0
+c02948,Commercial,Portability Inquiry,1
+c02949,Technical Support,Connectivity Issue,0
+c02950,Retention,Cancellation Request,0
+c02951,Retention,Cancellation Request,0
+c02952,Commercial,Plan Change Request,0
+c02953,Digital Channels,Payment App Issue,0
+c02954,Retention,Cancellation Request,0
+c02955,Retention,Cancellation Request,0
+c02956,Claims,Claim Follow-up,0
+c02957,Digital Channels,Payment App Issue,1
+c02958,Digital Channels,Payment App Issue,0
+c02959,Technical Support,Connectivity Issue,1
+c02960,Retention,Cancellation Request,0
+c02961,Claims,Claim Follow-up,0
+c02962,Technical Support,Connectivity Issue,0
+c02963,Retention,Cancellation Request,0
+c02964,Claims,Claim Follow-up,1
+c02965,General Support,Other,0
+c02966,Digital Channels,Payment App Issue,1
+c02967,Technical Support,Connectivity Issue,0
+c02968,Billing,Incorrect Charge,0
+c02969,Commercial,Portability Inquiry,0
+c02970,Technical Support,Connectivity Issue,0
+c02971,Digital Channels,Payment App Issue,0
+c02972,General Support,Other,0
+c02973,Commercial,Plan Change Request,0
+c02974,Technical Support,Connectivity Issue,0
+c02975,General Support,Other,0
+c02976,Commercial,Plan Change Request,0
+c02977,Digital Channels,Payment App Issue,1
+c02978,Technical Support,Connectivity Issue,0
+c02979,Commercial,Portability Inquiry,0
+c02980,Technical Support,Connectivity Issue,0
+c02981,Digital Channels,Payment App Issue,0
+c02982,Technical Support,Connectivity Issue,0
+c02983,Billing,Incorrect Charge,0
+c02984,Billing,Incorrect Charge,0
+c02985,Retention,Cancellation Request,1
+c02986,Billing,Incorrect Charge,0
+c02987,Commercial,Portability Inquiry,0
+c02988,General Support,Other,0
+c02989,Technical Support,Connectivity Issue,1
+c02990,Billing,Incorrect Charge,0
+c02991,Technical Support,Connectivity Issue,0
+c02992,General Support,Other,0
+c02993,General Support,Other,1
+c02994,Technical Support,Connectivity Issue,0
+c02995,General Support,Other,0
+c02996,General Support,Other,0
+c02997,Technical Support,Connectivity Issue,1
+c02998,Commercial,Plan Change Request,0
+c02999,Digital Channels,Payment App Issue,0
+c03000,Claims,Claim Follow-up,1
