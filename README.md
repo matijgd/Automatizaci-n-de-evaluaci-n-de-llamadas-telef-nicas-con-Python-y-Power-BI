@@ -463,15 +463,19 @@ Este proyecto permite:
 
 ## Página 1 - Overview Operacional y de Calidad
 
-![Overview](documentos/imagenes/dashboard_overview.png)
+![General](documentos/imagenes/general.png)
 
 ## Página 2 - Desempeño por Ejecutivo
 
-![Detalle Ejecutivo](documentos/imagenes/dashboard_agent_detail.png)
+![Detalle Ejecutivo](documentos/imagenes/ejecutivos.png)
+
+## ToolTips Interactivos para brindar mayor informacion
+
+![Tooltips](documentos/imagenes/enfoque_matriz_tooltip.png)
 
 ---
 
 # 👨‍💻 Autor
 
 **Matías González**  
-Data Analyst | SQL Server | Power BI | Python | Excel
+Analista de Datost | SQL Server | Power BI | Python | Excel
