@@ -343,10 +343,10 @@ Además, el proceso de scoring utiliza procesamiento paralelo para evaluar trans
 
 ---
 
-# 📂 Estructura Sugerida del Repositorio
+# 📂 Estructura del Repositorio
 
 ```text
-call-center-qa-automation-python-power-bi/
+call-center-qa-automatizacion-python-power-bi/
 │
 ├── scripts/
 │   ├── 01_score_transcripts.py
